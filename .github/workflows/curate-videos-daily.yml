@@ -1,8 +1,9 @@
 name: Daily Video Curation with Gemini
+
  on:
    schedule:
      - cron: '0 2 * * *'  # 2 AM UTC daily
-   workflow_dispatch:  # Manual trigger
+   workflow_dispatch:
 
  permissions:
    contents: write
@@ -25,13 +26,13 @@ name: Daily Video Curation with Gemini
 
        - name: Run curation script
          env:
-           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-         run: python scripts/curate_videos.py
+           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_AI }}
+         run: python aibuilder/curate_videos.py
 
        - name: Commit and push
          run: |
            git config user.name "AI Curator Bot"
            git config user.email "bot@aibuilder.space"
-           git add videos.json
+           git add aibuilder/videos.json
            git commit -m "🤖 Daily video curation - $(date)" || echo "No changes"
            git push
