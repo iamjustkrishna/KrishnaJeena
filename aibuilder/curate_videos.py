@@ -47,7 +47,7 @@ import os
  sync_url = "https://www.aibuilder.space/api/learning/curated"
  payload = {
      "action": "sync-github",
-     "github_json_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/videos.json"
+     "github_json_url": "https://raw.githubusercontent.com/iamjustkrishna/KrishnaJeena/refs/heads/main/aibuilder/videos.json"
  }
  response = requests.post(sync_url, json=payload)
  print(f"✓ API Sync: {response.status_code}")
