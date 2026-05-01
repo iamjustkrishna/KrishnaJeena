@@ -2,8 +2,7 @@ import os
  import json
  from google.generativeai import GenerativeAI
 
- # Initialize Gemini
- client = GenerativeAI(api_key=os.getenv("GEMINI_API_KEY"))
+ client = GenerativeAI(api_key=os.getenv("GEMINI_API_KEY_AI"))
 
  weeks = [
      {"num": 1, "topic": "Understanding AI", "context": "Fundamentals and core concepts"},
@@ -37,17 +36,17 @@ import os
      except json.JSONDecodeError:
          print(f"✗ Week {week['num']}: Failed to parse")
 
- # Write to videos.json
- with open("videos.json", "w") as f:
+ # Write to aibuilder/videos.json
+ with open("aibuilder/videos.json", "w") as f:
      json.dump({"videos": all_videos}, f, indent=2)
-     print(f"\n✓ Saved {len(all_videos)} videos to videos.json")
+     print(f"\n✓ Saved {len(all_videos)} videos to aibuilder/videos.json")
 
  # Trigger website sync
  import requests
  sync_url = "https://www.aibuilder.space/api/learning/curated"
  payload = {
      "action": "sync-github",
-     "github_json_url": "https://raw.githubusercontent.com/iamjustkrishna/KrishnaJeena/refs/heads/main/aibuilder/videos.json"
+     "github_json_url": "https://raw.githubusercontent.com/iamjustkrishna/aibuilder/main/aibuilder/videos.json"
  }
  response = requests.post(sync_url, json=payload)
  print(f"✓ API Sync: {response.status_code}")
