@@ -1,1 +1,95 @@
-[]
+{
+  "videos": [
+    {
+      "title": "What is AI? Crash Course AI #1",
+      "youtube_url": "https://youtu.be/Jhi7_b2G07I",
+      "description": "John Green introduces artificial intelligence, defining what it is, its goals, and why it's such an important field of study today. This video sets the foundation for understanding AI.",
+      "week_number": 1,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "History of AI: Crash Course AI #2",
+      "youtube_url": "https://youtu.be/c5wLq2z5g58",
+      "description": "Explore the fascinating journey of artificial intelligence from its early philosophical roots to modern breakthroughs, understanding the key milestones and figures that shaped the field.",
+      "week_number": 1,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "Types of AI: Crash Course AI #3",
+      "youtube_url": "https://youtu.be/Zf5U-Vj0Fj8",
+      "description": "Delve into the different categories of artificial intelligence, from narrow AI (ANI) to general AI (AGI) and superintelligence (ASI), and understand their capabilities and limitations.",
+      "week_number": 1,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "What is artificial intelligence? | Peter Haugeland",
+      "youtube_url": "https://youtu.be/kWmX3rbE1Rs",
+      "description": "This animated TED-Ed lesson provides a concise overview of what AI is, how it works, and its potential impact on our future, offering a different perspective on the foundational concepts.",
+      "week_number": 1,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "What is AI? And why should you care?",
+      "youtube_url": "https://youtu.be/s8A0L4VfWf0",
+      "description": "The Economist explains artificial intelligence in simple terms, discussing its current capabilities, future potential, and why understanding it is crucial for everyone. This video provides a good, broad overview of AI's relevance.",
+      "week_number": 1,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "Build Your First Machine Learning Web App with Streamlit",
+      "youtube_url": "https://www.youtube.com/watch?v=pxtq4hgzgqg",
+      "description": "Learn how to quickly develop and deploy interactive machine learning web applications using Streamlit, a popular Python library. This tutorial covers basic components and app structure, making it ideal for presenting AI models.",
+      "week_number": 2,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "ChatGPT API with Python: Build Your Own AI Applications",
+      "youtube_url": "https://www.youtube.com/watch?v=b0-W5b4j6hE",
+      "description": "A comprehensive guide to using the OpenAI API with Python to build various AI applications, including chatbots and image generation, leveraging powerful models like GPT-3.5 and DALL-E.",
+      "week_number": 2,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "Deploying a Machine Learning Model as an API (Flask Tutorial)",
+      "youtube_url": "https://www.youtube.com/watch?v=mqyK0iJ3h_Q",
+      "description": "Understand the fundamentals of deploying a trained machine learning model by wrapping it in a REST API using Flask. This teaches how to make your AI models accessible and consumable by other applications.",
+      "week_number": 2,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "LangChain in 30 Minutes",
+      "youtube_url": "https://www.youtube.com/watch?v=e6eB8wWqE4A",
+      "description": "A concise introduction to LangChain, demonstrating how to use its core components (models, prompts, chains) to build powerful and context-aware large language model applications with Python.",
+      "week_number": 2,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "AI Agents Explained: What are they and how do they work?",
+      "youtube_url": "https://www.youtube.com/watch?v=F0S12R-9Xh0",
+      "description": "This video provides a clear and comprehensive introduction to AI agents, covering their fundamental components (perception, reasoning, action), different types (reactive, model-based, goal-based, utility-based), and practical applications. It's an excellent starting point for understanding the core concepts.",
+      "week_number": 3,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "Autonomous Agents Explained (With LLMs and LangChain)",
+      "youtube_url": "https://www.youtube.com/watch?v=n1eJg_3c0X8",
+      "description": "Explores the modern landscape of autonomous AI agents, focusing on their implementation with Large Language Models (LLMs) and practical frameworks like LangChain. It details how LLMs enable agents to plan, use tools, and interact with the environment to solve complex tasks.",
+      "week_number": 3,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "The Architecture of LLM Agents",
+      "youtube_url": "https://www.youtube.com/watch?v=Gj9qUaVwA_0",
+      "description": "Harrison Chase, CEO of LangChain, dives into the underlying architecture of LLM-powered agents. This video discusses key components such as tools, memory, planning, and reflection, providing deeper insights into how these elements are engineered to create intelligent and robust agent systems.",
+      "week_number": 3,
+      "tier_required": "intermediate"
+    },
+    {
+      "title": "AutoGen: A New Era of Multi-Agent AI Development",
+      "youtube_url": "https://www.youtube.com/watch?v=UqQ1l4tK9e0",
+      "description": "Introduces Microsoft's AutoGen framework, showcasing its capabilities for building and orchestrating multi-agent conversations. This video demonstrates how different AI agents can collaborate and communicate to collectively solve challenging problems, offering a practical perspective on advanced multi-agent systems.",
+      "week_number": 3,
+      "tier_required": "intermediate"
+    }
+  ]
+}
