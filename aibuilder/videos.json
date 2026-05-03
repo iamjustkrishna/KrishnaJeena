@@ -1,66 +1,73 @@
 {
   "videos": [
     {
-      "title": "What is Artificial Intelligence? And How Does It Work?",
-      "youtube_url": "https://www.youtube.com/watch?v=JylJm9B_EwI",
-      "description": "An engaging and visually stunning introduction to artificial intelligence, explaining its basic definition, history, and the fundamental concept of how AI learns and makes decisions. A great starting point for beginners.",
+      "title": "What is Artificial Intelligence? In 5 Minutes",
+      "youtube_url": "https://www.youtube.com/watch?v=F0_J1oWw-L8",
+      "description": "A concise and clear introduction to what Artificial Intelligence is, its history, and its different categories (ANI, AGI, ASI). Perfect for setting the foundational understanding for beginners.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What is Artificial Intelligence? (AI explained)",
-      "youtube_url": "https://www.youtube.com/watch?v=KzE_y0c4Rjc",
-      "description": "This video from IBM provides a clear and concise overview of AI, defining what it is, exploring different types of AI (Narrow, General, Superintelligence), and showcasing real-world applications. Excellent for understanding the scope of AI.",
+      "title": "What is AI, ML, DL, & Data Science? (Explained in 5 minutes)",
+      "youtube_url": "https://www.youtube.com/watch?v=k_Bf_tC5070",
+      "description": "This video clarifies the often-confused relationships between Artificial Intelligence, Machine Learning, Deep Learning, and Data Science, providing essential terminology for core concepts.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What is Machine Learning? (IBM Technology)",
-      "youtube_url": "https://www.youtube.com/watch?v=xfuRvk2I_yA",
-      "description": "Dive deeper into one of the core pillars of modern AI: Machine Learning. This video clearly explains what ML is, its different types (supervised, unsupervised, reinforcement learning), and how machines learn from data without explicit programming.",
+      "title": "What is Machine Learning? In 5 minutes",
+      "youtube_url": "https://www.youtube.com/watch?v=f_uwKZIApfE",
+      "description": "Explains the core concept of Machine Learning, how machines learn from data without explicit programming, and introduces different types of ML (supervised, unsupervised, reinforcement).",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What is Deep Learning? (IBM Technology)",
-      "youtube_url": "https://www.youtube.com/watch?v=L_s_1E4dGe4",
-      "description": "Building on machine learning, this video introduces deep learning, a powerful subset inspired by the human brain's neural networks. It explains the concept of artificial neural networks and how they enable AI to tackle complex problems like image recognition and natural language processing.",
+      "title": "What is Deep Learning? In 5 minutes",
+      "youtube_url": "https://www.youtube.com/watch?v=R9OHn5ZF4U8",
+      "description": "Building on Machine Learning, this video introduces Deep Learning, explaining how neural networks with multiple layers enable AI to process complex patterns and achieve advanced capabilities.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "MLOps Explained",
-      "youtube_url": "https://www.youtube.com/watch?v=J_U7v4RjK1o",
-      "description": "An excellent introductory video from Google Cloud that breaks down MLOps principles, covering CI/CD for ML, continuous training, and monitoring to ensure reliable deployment and management of AI models.",
-      "week_number": 4,
+      "title": "The AI Revolution: The Good, The Bad, and The Ugly",
+      "youtube_url": "https://www.youtube.com/watch?v=dgQ_bHchI8c",
+      "description": "A thought-provoking overview of the current state and potential future of AI, discussing its transformative power, ethical implications, and the broader societal impact of advanced artificial intelligence.",
+      "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "Build and Deploy an AI Model as an API (Step-by-step tutorial)",
-      "youtube_url": "https://www.youtube.com/watch?v=nC7-7R_T21U",
-      "description": "A practical, step-by-step tutorial demonstrating how to wrap a machine learning model into a deployable API using Flask, making it accessible for integration into applications and potential monetization.",
-      "week_number": 4,
+      "title": "Learn OpenAI API in 15 Minutes - Python Tutorial",
+      "youtube_url": "https://www.youtube.com/watch?v=FakgXUu2N3U",
+      "description": "A quick and practical introduction to using the OpenAI API with Python, covering basic requests for chat completions and model interaction.",
+      "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "AI Business Models Explained: How to Monetize Your AI Project",
-      "youtube_url": "https://www.youtube.com/watch?v=kYJmR0s_6-c",
-      "description": "From DeepLearning.AI, this video covers various strategies for monetizing AI projects, including subscription models, API access, and integrating AI into existing services, providing a clear overview of common AI business models.",
-      "week_number": 4,
+      "title": "Build AI Apps with Python & Streamlit in 30 Mins | No prior ML experience needed",
+      "youtube_url": "https://www.youtube.com/watch?v=HTVqH1gI7m4",
+      "description": "Demonstrates how to quickly create interactive web applications for AI models using Python and Streamlit, ideal for showcasing projects with minimal code.",
+      "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "Navigating the AI Product Lifecycle: From Idea to Impact",
-      "youtube_url": "https://www.youtube.com/watch?v=n5l7nJtW_D4",
-      "description": "This video explores the entire AI product lifecycle, from ideation to deployment and beyond, emphasizing key considerations for launching a successful AI product and ensuring its long-term impact and sustainability.",
-      "week_number": 4,
+      "title": "LangChain in 20 Minutes | Crash Course",
+      "youtube_url": "https://www.youtube.com/watch?v=L_G0g_4LgYk",
+      "description": "Provides a concise introduction to LangChain, explaining its core components and how it facilitates building more complex, data-aware applications with large language models.",
+      "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "How to Price Your AI Product",
-      "youtube_url": "https://www.youtube.com/watch?v=vV1pS7C3R4U",
-      "description": "A focused discussion on the unique challenges and strategies involved in pricing AI products and services, covering different pricing models and how to articulate value to customers.",
-      "week_number": 4,
+      "title": "Build a Simple AI Chatbot with Python and OpenAI",
+      "youtube_url": "https://www.youtube.com/watch?v=cM2y-J1h46U",
+      "description": "A hands-on tutorial guiding users through building a basic AI chatbot using Python, integrating with OpenAI's API for conversational capabilities.",
+      "week_number": 2,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "Build and Share LLM Apps with Gradio & Hugging Face",
+      "youtube_url": "https://www.youtube.com/watch?v=QhD_11v_q_Y",
+      "description": "Explains how to build and deploy interactive web interfaces for large language models using Gradio and leverage models available on Hugging Face for various AI tasks.",
+      "week_number": 2,
       "tier_required": "foundational"
     }
   ]
