@@ -1,38 +1,31 @@
 {
   "videos": [
     {
-      "title": "Build 3 AI Apps with Python & OpenAI API - Full Course",
-      "youtube_url": "https://www.youtube.com/watch?v=k_B7p9P5W28",
-      "description": "This comprehensive course teaches how to build three practical AI applications using Python, the OpenAI API, Streamlit for UI, and an introduction to LangChain. It covers text generation, summarization, and a chatbot, providing hands-on coding experience for various AI app functionalities.",
-      "week_number": 2,
+      "title": "What is AI? And How Does it Work?",
+      "youtube_url": "https://www.youtube.com/watch?v=F3G1SskL3t0",
+      "description": "This video from IBM Technology provides a clear and concise definition of Artificial Intelligence, explains its core goal, and introduces the different types of AI (ANI, AGI, ASI) along with foundational technologies like Machine Learning and Deep Learning.",
+      "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "Streamlit Crash Course - Build a Python Data Science App in Under an Hour",
-      "youtube_url": "https://www.youtube.com/watch?v=TDfP_e51x-8",
-      "description": "A quick and practical introduction to Streamlit, a popular Python library for building interactive web applications for machine learning and data science. This video covers the essentials for creating user interfaces for your AI models and data visualizations with minimal code.",
-      "week_number": 2,
+      "title": "The AI Revolution: The Good, The Bad, and The Ugly",
+      "youtube_url": "https://www.youtube.com/watch?v=QXqWfXGz_J4",
+      "description": "Kurzgesagt \u2013 In a Nutshell offers an engaging and visually stunning exploration of AI's current capabilities, its potential future, and the profound implications\u2014both positive and negative\u2014it holds for humanity.",
+      "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "Hugging Face Transformers Tutorial For Beginners (Sentiment Analysis)",
-      "youtube_url": "https://www.youtube.com/watch?v=S_YI7W5Yy78",
-      "description": "This beginner-friendly tutorial introduces the Hugging Face Transformers library, demonstrating how to load and use pre-trained models for practical NLP tasks like sentiment analysis. It's a great entry point for integrating powerful, off-the-shelf AI models into your applications.",
-      "week_number": 2,
+      "title": "AI Explained!",
+      "youtube_url": "https://www.youtube.com/watch?v=J3-gI-m0R6I",
+      "description": "Marques Brownlee (MKBHD) explains AI in simple terms by showcasing real-world examples and practical applications, helping viewers understand how AI impacts their daily lives, from smartphone features to personalized recommendations.",
+      "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "Build and Deploy a Machine Learning App with Python and Streamlit",
-      "youtube_url": "https://www.youtube.com/watch?v=l_g2sB84z0M",
-      "description": "Learn how to build an end-to-end machine learning application using Python, scikit-learn for model training, and Streamlit for creating an interactive web interface. This video walks through the entire process, from data loading and model building to deployment of a predictive app.",
-      "week_number": 2,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "Building and Deploying a Machine Learning Model as an API (Flask)",
-      "youtube_url": "https://www.youtube.com/watch?v=tQoY5t_kK_g",
-      "description": "This tutorial guides you through building a simple machine learning model, saving it, and then deploying it as a RESTful API using Flask. It's essential for understanding how to serve your AI models to other applications or frontends, offering a common alternative to direct UI frameworks.",
-      "week_number": 2,
+      "title": "Artificial Intelligence: Crash Course Computer Science #34",
+      "youtube_url": "https://www.youtube.com/watch?v=DOuMAzH_A4Y",
+      "description": "CrashCourse provides a fast-paced yet comprehensive overview of AI's history, different approaches to building intelligent systems, and key concepts like machine learning, neural networks, and expert systems, setting a strong conceptual foundation.",
+      "week_number": 1,
       "tier_required": "foundational"
     }
   ]
