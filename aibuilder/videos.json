@@ -1,31 +1,31 @@
 {
   "videos": [
     {
-      "title": "What is AI? And How Does it Work?",
-      "youtube_url": "https://www.youtube.com/watch?v=F3G1SskL3t0",
-      "description": "This video from IBM Technology provides a clear and concise definition of Artificial Intelligence, explains its core goal, and introduces the different types of AI (ANI, AGI, ASI) along with foundational technologies like Machine Learning and Deep Learning.",
-      "week_number": 1,
+      "title": "Build AI Apps with Python and OpenAI API (Beginner Tutorial)",
+      "youtube_url": "https://youtu.be/F0v4FzL52sU",
+      "description": "Get started with the OpenAI API to integrate powerful AI models into your Python applications. This video covers making API calls for text generation, embeddings, and more, providing a foundational understanding for programmatic AI interaction.",
+      "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "The AI Revolution: The Good, The Bad, and The Ugly",
-      "youtube_url": "https://www.youtube.com/watch?v=QXqWfXGz_J4",
-      "description": "Kurzgesagt \u2013 In a Nutshell offers an engaging and visually stunning exploration of AI's current capabilities, its potential future, and the profound implications\u2014both positive and negative\u2014it holds for humanity.",
-      "week_number": 1,
+      "title": "Build a ChatGPT-like App in Python using Streamlit",
+      "youtube_url": "https://youtu.be/w2_X3gH4XyY",
+      "description": "Learn how to build interactive web-based AI applications using Streamlit. This tutorial demonstrates combining the OpenAI API with Streamlit to create a user-friendly interface for your AI projects, focusing on rapid prototyping.",
+      "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "AI Explained!",
-      "youtube_url": "https://www.youtube.com/watch?v=J3-gI-m0R6I",
-      "description": "Marques Brownlee (MKBHD) explains AI in simple terms by showcasing real-world examples and practical applications, helping viewers understand how AI impacts their daily lives, from smartphone features to personalized recommendations.",
-      "week_number": 1,
+      "title": "LangChain Beginner Tutorial: How to Build LLM Apps with Python",
+      "youtube_url": "https://youtu.be/AYw2vA3nO2E",
+      "description": "Explore LangChain, a powerful framework for developing applications powered by large language models. This video introduces core concepts like chains, agents, and data augmentation, essential for building more complex and context-aware AI applications.",
+      "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "Artificial Intelligence: Crash Course Computer Science #34",
-      "youtube_url": "https://www.youtube.com/watch?v=DOuMAzH_A4Y",
-      "description": "CrashCourse provides a fast-paced yet comprehensive overview of AI's history, different approaches to building intelligent systems, and key concepts like machine learning, neural networks, and expert systems, setting a strong conceptual foundation.",
-      "week_number": 1,
+      "title": "Build a Custom PDF Chatbot App with LangChain and Streamlit",
+      "youtube_url": "https://youtu.be/3yqC4fQy9p8",
+      "description": "Dive into a practical project to build an end-to-end AI chatbot that can chat with custom PDF documents. This tutorial integrates LangChain, OpenAI's API, and Streamlit to showcase how to combine various tools for a complete AI application.",
+      "week_number": 2,
       "tier_required": "foundational"
     }
   ]
