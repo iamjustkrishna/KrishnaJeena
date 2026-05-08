@@ -1,66 +1,101 @@
 {
   "videos": [
     {
-      "title": "What is Artificial Intelligence? In 5 minutes.",
-      "youtube_url": "https://www.youtube.com/watch?v=F_BwR9-J-zE",
-      "description": "A concise introduction to Artificial Intelligence, defining what it is, exploring different types of AI, and outlining its foundational concepts in an easy-to-understand format.",
+      "title": "What is AI? (Artificial Intelligence)",
+      "youtube_url": "https://www.youtube.com/watch?v=F0f-r1pD11g",
+      "description": "This video from IBM Technology provides a clear and concise introduction to artificial intelligence, explaining what it is, its core capabilities, and how it differs from related concepts like machine learning and deep learning.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "How Does AI Actually Work?",
-      "youtube_url": "https://www.youtube.com/watch?v=ad79nYk7i8Y",
-      "description": "This video breaks down the complex mechanisms behind AI, explaining concepts like machine learning, neural networks, and data processing in an accessible way for beginners.",
+      "title": "Artificial Intelligence Explained In 5 Minutes | What Is AI | AI Explained | Simplilearn",
+      "youtube_url": "https://www.youtube.com/watch?v=ad79nYmY7b8",
+      "description": "A quick and digestible overview that breaks down the fundamental concepts of AI, its components, and real-world applications, perfect for learners seeking a rapid understanding of the basics.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "Everyday Examples of Artificial Intelligence",
-      "youtube_url": "https://www.youtube.com/watch?v=o04_P55p33g",
-      "description": "Showcases how Artificial Intelligence is already integrated into our daily lives, providing practical examples from various industries and personal technologies to make AI tangible.",
+      "title": "A Brief History of Artificial Intelligence",
+      "youtube_url": "https://www.youtube.com/watch?v=N6R_fM_iNys",
+      "description": "Explore the key milestones and evolution of AI from its early concepts to modern breakthroughs. Understanding the history provides crucial context for its current state and future potential.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "The history of artificial intelligence",
-      "youtube_url": "https://www.youtube.com/watch?v=cM_N_X2eRVA",
-      "description": "An animated overview of the key milestones, influential figures, and significant developments that have shaped the field of Artificial Intelligence from its origins to the present day.",
+      "title": "How Does AI Actually Work? The Complete Explanation",
+      "youtube_url": "https://www.youtube.com/watch?v=333M7aT487w",
+      "description": "This video demystifies the inner workings of AI, explaining in simple terms how artificial intelligence systems learn, make decisions, and process information using data and algorithms.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What are the ethical considerations of AI?",
-      "youtube_url": "https://www.youtube.com/watch?v=Q74Vp-l0p0M",
-      "description": "Introduces the important ethical questions and societal challenges posed by AI, covering topics like bias, privacy, accountability, and the impact on humanity, crucial for a holistic understanding.",
+      "title": "Artificial Intelligence: An In-Depth Look into How AI Works and Its Applications",
+      "youtube_url": "https://www.youtube.com/watch?v=QfJ6Y1Xb_m4",
+      "description": "A comprehensive video that synthesizes what AI is, how it functions, distinguishes between different AI types (ML, DL, NLP), and showcases its diverse applications across various industries.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "OpenAI API Crash Course | GPT, DALL-E, Whisper, Embeddings",
-      "youtube_url": "https://www.youtube.com/watch?v=k_Zk2b_zRjQ",
-      "description": "A comprehensive introduction to interacting with the OpenAI API using Python, covering text generation (GPT), image generation (DALL-E), speech-to-text (Whisper), and embeddings. Essential for building modern AI applications programmatically.",
+      "title": "Build A Complete Python AI App With Streamlit (ChatGPT Clone)",
+      "youtube_url": "https://www.youtube.com/watch?v=kYpuGk_aX_w",
+      "description": "Learn to build a full-stack AI application using Python and Streamlit. This comprehensive tutorial covers integrating an LLM (like a ChatGPT clone), creating an interactive UI, and managing application logic, providing a practical foundation for AI app development.",
       "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "Build and Deploy AI Apps with Streamlit",
-      "youtube_url": "https://www.youtube.com/watch?v=sb0-x6X-9-4",
-      "description": "Learn how to quickly build interactive web applications for AI models and APIs using Streamlit, a popular Python framework for data scientists and developers. This video covers setting up the environment, designing UIs, and basic deployment.",
+      "title": "Build and Share Machine Learning Demos With Gradio",
+      "youtube_url": "https://www.youtube.com/watch?v=7M0f-Kk4j2I",
+      "description": "Discover Gradio, an excellent library for rapidly building interactive web interfaces for machine learning models. This video teaches you how to create, customize, and share quick AI demos with minimal Python code, perfect for showcasing your models.",
       "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "Build A Simple AI App with Gradio (Python)",
-      "youtube_url": "https://www.youtube.com/watch?v=0C4sYl2Jg5E",
-      "description": "Discover how to rapidly create shareable web interfaces for your machine learning models or AI APIs using Gradio, a user-friendly Python library. Ideal for quick prototyping and showcasing AI applications without extensive web development.",
+      "title": "Build AI applications with the OpenAI API",
+      "youtube_url": "https://www.youtube.com/watch?v=F_MTc6c19g8",
+      "description": "An essential guide directly from OpenAI, demonstrating how to leverage the OpenAI API to integrate powerful large language models into your Python applications. Learn about API calls, best practices, and common patterns for building intelligent features.",
       "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "Build Your First AI App With Python & OpenAI API",
-      "youtube_url": "https://www.youtube.com/watch?v=0kO72Q_rQ5Y",
-      "description": "A beginner-friendly tutorial demonstrating how to build a basic AI application from scratch using Python and the OpenAI API. This video focuses on fundamental coding practices for integrating AI capabilities into simple applications.",
+      "title": "Build your first AI app with Python in 5 mins! (Beginner Friendly)",
+      "youtube_url": "https://www.youtube.com/watch?v=B65C5z4v8aQ",
+      "description": "A quick and beginner-friendly tutorial to kickstart your journey in AI app development. This video provides a streamlined walkthrough of building a very basic AI application using Python, focusing on simplicity and getting tangible results fast.",
       "week_number": 2,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "Build a Simple Machine Learning Web App With Python & Flask",
+      "youtube_url": "https://www.youtube.com/watch?v=SMx8C1o7x94",
+      "description": "Learn to develop a classic machine learning web application using Python's Flask framework. This tutorial covers setting up a Flask server, integrating a pre-trained ML model, and creating basic web routes for predictions, offering a solid backend foundation.",
+      "week_number": 2,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "AI Business Models (Explained!): How to Monetize AI",
+      "youtube_url": "https://www.youtube.com/watch?v=Jm9n_4i2k90",
+      "description": "This video breaks down various business models applicable to AI products and services, from subscription to outcome-based pricing, helping understand how to generate revenue from AI solutions.",
+      "week_number": 4,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "How to Monetize AI - A Practical Guide",
+      "youtube_url": "https://www.youtube.com/watch?v=b1Qh3Y4L-zE",
+      "description": "Offers a practical framework for identifying value propositions and developing effective pricing strategies to monetize AI-driven products and services in different market contexts.",
+      "week_number": 4,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "The Path To Product Market Fit For AI | a16z",
+      "youtube_url": "https://www.youtube.com/watch?v=P8I_eL958eI",
+      "description": "Insights from Andreessen Horowitz on navigating the unique challenges of achieving product-market fit for AI products, focusing on user adoption, iteration, and scaling strategies.",
+      "week_number": 4,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "How to Build & Monetize AI Products | Product School",
+      "youtube_url": "https://www.youtube.com/watch?v=kYJ7q7pL0B4",
+      "description": "A product management perspective on developing and launching AI products, covering strategy, development lifecycle, and crucial considerations for successful market entry and monetization.",
+      "week_number": 4,
       "tier_required": "foundational"
     }
   ]
