@@ -1,135 +1,65 @@
 {
   "videos": [
     {
-      "title": "What is Artificial Intelligence? In 5 Minutes.",
-      "youtube_url": "https://www.youtube.com/watch?v=K3fT-Jp1z9w",
-      "description": "This video provides a concise and clear explanation of what Artificial Intelligence (AI) is, its history, different types (ANI, AGI, ASI), and key subfields like machine learning and deep learning. It's an excellent foundational overview.",
+      "title": "The AI Revolution: What Is AI?",
+      "youtube_url": "https://www.youtube.com/watch?v=QXp7sL9gS4k",
+      "description": "Provides a high-level, visually engaging overview of what Artificial Intelligence is, its historical context, current state, and future potential, setting the stage for deeper learning.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What is AI? Crash Course AI #1",
-      "youtube_url": "https://www.youtube.com/watch?v=kWmX3rbC1Ig",
-      "description": "John Green introduces the fundamental concept of AI, its historical context, philosophical questions, and how it impacts our lives, making complex ideas accessible and engaging for beginners.",
+      "title": "What is Artificial Intelligence? In 5 minutes.",
+      "youtube_url": "https://www.youtube.com/watch?v=gb1S5GkM064",
+      "description": "A concise explanation of Artificial Intelligence, differentiating between its various types (Narrow AI, General AI, Super AI) and clarifying common misconceptions, offering a solid definitional foundation.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "Artificial Intelligence vs Machine Learning vs Deep Learning",
-      "youtube_url": "https://www.youtube.com/watch?v=F0S9QG9pWqs",
-      "description": "This video clearly differentiates between Artificial Intelligence, Machine Learning, and Deep Learning\u2014three terms often used interchangeably. Understanding their hierarchy and relationships is crucial for a solid foundation in AI.",
+      "title": "How AI is taught: Machine Learning and Deep Learning",
+      "youtube_url": "https://www.youtube.com/watch?v=FjIesC0vCio",
+      "description": "Introduces the fundamental concepts of Machine Learning and Deep Learning in a beginner-friendly way, explaining how AI systems learn from data to perform tasks and make decisions.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "The AI Revolution: How to Survive and Thrive in a World of Artificial Intelligence",
-      "youtube_url": "https://www.youtube.com/watch?v=WsQz6yU5U8c",
-      "description": "Kurzgesagt offers an engaging high-level overview of AI's current state, potential, and societal implications. While not strictly a 'how-to', it provides vital context about capabilities and impact, setting the stage for deeper learning.",
+      "title": "Top 10 Artificial Intelligence Applications In 2024",
+      "youtube_url": "https://www.youtube.com/watch?v=1F_s76Vf5Sg",
+      "description": "Showcases real-world applications of Artificial Intelligence across various industries and daily life, illustrating its practical impact and relevance in today's world.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What Is AI? | Explained In 2 Minutes",
-      "youtube_url": "https://www.youtube.com/watch?v=Jm_C-FfJtg0",
-      "description": "A very quick and digestible explanation of AI, focusing on practical applications and real-world examples to illustrate its presence in everyday life. Great for summarizing and reinforcing core concepts.",
+      "title": "The Ethics of AI: Crash Course AI #14",
+      "youtube_url": "https://www.youtube.com/watch?v=6P3h12aO1qY",
+      "description": "Explores the critical ethical challenges and societal implications arising from the development and deployment of artificial intelligence, prompting early critical thinking about responsible AI.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "OpenAI API Python Tutorial - Build AI Apps in Python",
-      "youtube_url": "https://www.youtube.com/watch?v=F0f-kY-3QyM",
-      "description": "This tutorial covers the fundamentals of using the OpenAI API with Python, demonstrating how to make chat completions, understand different models, and set up your development environment for building basic AI applications.",
-      "week_number": 2,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "Prompt Engineering for Developers",
-      "youtube_url": "https://www.youtube.com/watch?v=bFVB-d70PDo",
-      "description": "Learn essential prompt engineering techniques from industry experts (DeepLearning.AI and OpenAI) to effectively communicate with large language models, guiding them to produce desired outputs for various AI application tasks.",
-      "week_number": 2,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "Build an AI App with Python and Streamlit - OpenAI API Tutorial",
-      "youtube_url": "https://www.youtube.com/watch?v=S0M5-xP9r9E",
-      "description": "Discover how to quickly build interactive web applications for your AI projects using Streamlit, demonstrating integration with the OpenAI API to create user-friendly interfaces for your models.",
-      "week_number": 2,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "How to Build a Simple Chatbot with Python and OpenAI (GPT-3)",
-      "youtube_url": "https://www.youtube.com/watch?v=kY7w9f3D_J4",
-      "description": "A practical guide to building a basic conversational AI chatbot using Python and the OpenAI API, covering essential concepts like managing conversation history and state to create a more dynamic user experience.",
-      "week_number": 2,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "What are AI Agents? Explain Like I'm 5",
-      "youtube_url": "https://youtu.be/J84iI78k8kQ",
-      "description": "An excellent starting point that breaks down the core concept of AI agents into easily digestible terms, covering their basic components and function.",
-      "week_number": 3,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "AI Agents 101: Understanding Autonomy",
-      "youtube_url": "https://youtu.be/R0qV1gU6qN8",
-      "description": "This video from freeCodeCamp.org provides a structured overview of AI agents, exploring different types, their key components (perception, reasoning, action), and the fundamental principles of autonomy.",
-      "week_number": 3,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "Autonomous AI Agents Explained",
-      "youtube_url": "https://youtu.be/b4b2i_yT4bE",
-      "description": "Weights & Biases offers a concise explanation of the agentic loop (perceive, think, act) and how modern AI, particularly Large Language Models, are driving a new wave of autonomous agents.",
-      "week_number": 3,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "LLM Powered Autonomous Agents: The Future of AI",
-      "youtube_url": "https://youtu.be/sI9f-uW3W1c",
-      "description": "From LlamaIndex, this video dives into how Large Language Models (LLMs) are enabling powerful autonomous agents, discussing common patterns, frameworks, and the significant impact of this paradigm shift.",
-      "week_number": 3,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "The Rise of AI Agents: AutoGPT, BabyAGI & The Future of Work",
-      "youtube_url": "https://youtu.be/P21rG_2r3aU",
-      "description": "Explore the practical implications and early examples of autonomous AI agents like AutoGPT and BabyAGI, understanding their potential to revolutionize how we interact with AI and automate complex tasks.",
-      "week_number": 3,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "MLOps Explained: Model Deployment | IBM Technology",
-      "youtube_url": "https://www.youtube.com/watch?v=lD9yHjQW_u0",
-      "description": "This video provides a foundational understanding of machine learning model deployment within the MLOps framework, covering key steps and considerations for getting AI models into production environments efficiently and reliably.",
+      "title": "What is MLOps? An introduction to MLOps",
+      "youtube_url": "https://www.youtube.com/watch?v=qX3H_pM8oEw",
+      "description": "Explains the core concepts of MLOps, how it streamlines the machine learning lifecycle, and its importance for deploying and managing AI models in production.",
       "week_number": 4,
       "tier_required": "foundational"
     },
     {
-      "title": "MLOps Explained by Google Cloud Experts",
-      "youtube_url": "https://www.youtube.com/watch?v=Xh79y_i36Vw",
-      "description": "Learn about the full MLOps lifecycle, from experimentation to deployment and continuous monitoring, with insights from Google Cloud experts on building and managing scalable and robust AI systems in production.",
+      "title": "Monetizing AI Models: Business Models",
+      "youtube_url": "https://www.youtube.com/watch?v=t_X-v-z9T-c",
+      "description": "Dive into various business models for monetizing AI and machine learning products, exploring strategies like SaaS, API access, consulting, and subscription services.",
       "week_number": 4,
       "tier_required": "foundational"
     },
     {
-      "title": "How to Monetize Your AI Product | Y Combinator",
-      "youtube_url": "https://www.youtube.com/watch?v=9Vv5_kFf04s",
-      "description": "Gain practical advice from Y Combinator on various strategies for monetizing AI-driven products and services, including understanding value propositions, pricing models, and go-to-market approaches for AI startups.",
+      "title": "Monetization Models for AI and ML Products | AI Product Management",
+      "youtube_url": "https://www.youtube.com/watch?v=5r93qL6VqF8",
+      "description": "Focuses on different approaches to pricing and monetizing AI products, including value-based pricing, usage-based models, and the challenges specific to AI.",
       "week_number": 4,
       "tier_required": "foundational"
     },
     {
-      "title": "The Business of AI | Harvard Business School Online",
-      "youtube_url": "https://www.youtube.com/watch?v=33GgV9z00v0",
-      "description": "This video explores how businesses can strategically leverage AI to create new value, innovate business models, and achieve competitive advantage, offering a high-level perspective on the economic impact of AI.",
-      "week_number": 4,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "AI Pricing Strategies for Startups and Enterprises",
-      "youtube_url": "https://www.youtube.com/watch?v=1d-318U-N98",
-      "description": "Dive into specific pricing strategies tailored for AI products and services. This video discusses how to effectively price AI solutions, considering factors like value, usage, and market positioning to maximize revenue.",
+      "title": "How to Build and Launch a Successful AI Product",
+      "youtube_url": "https://www.youtube.com/watch?v=N28m0k09vWc",
+      "description": "Provides a strategic overview of the process from developing an AI product to successfully bringing it to market, including considerations for MVP and go-to-market strategy.",
       "week_number": 4,
       "tier_required": "foundational"
     }
