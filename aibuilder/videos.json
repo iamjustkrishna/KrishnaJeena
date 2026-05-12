@@ -1,65 +1,93 @@
 {
   "videos": [
     {
-      "title": "The AI Revolution: What Is AI?",
-      "youtube_url": "https://www.youtube.com/watch?v=QXp7sL9gS4k",
-      "description": "Provides a high-level, visually engaging overview of what Artificial Intelligence is, its historical context, current state, and future potential, setting the stage for deeper learning.",
+      "title": "What is Artificial Intelligence?",
+      "youtube_url": "https://youtu.be/Jhi5a2M-X8M",
+      "description": "A concise and clear explanation of what artificial intelligence is, its various forms, and practical applications, suitable for beginners.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What is Artificial Intelligence? In 5 minutes.",
-      "youtube_url": "https://www.youtube.com/watch?v=gb1S5GkM064",
-      "description": "A concise explanation of Artificial Intelligence, differentiating between its various types (Narrow AI, General AI, Super AI) and clarifying common misconceptions, offering a solid definitional foundation.",
+      "title": "Artificial Intelligence: Crash Course Computer Science #34",
+      "youtube_url": "https://youtu.be/J__1d0-z0F0",
+      "description": "Explores the history of AI, its different branches (like machine learning and deep learning at a high level), and fundamental concepts that define the field.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "How AI is taught: Machine Learning and Deep Learning",
-      "youtube_url": "https://www.youtube.com/watch?v=FjIesC0vCio",
-      "description": "Introduces the fundamental concepts of Machine Learning and Deep Learning in a beginner-friendly way, explaining how AI systems learn from data to perform tasks and make decisions.",
+      "title": "How does AI actually learn?",
+      "youtube_url": "https://youtu.be/R9OHn5ZF4U8",
+      "description": "Uses a simple example (like teaching a computer to play a game) to illustrate the basic principles of how artificial intelligence learns and makes decisions.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "Top 10 Artificial Intelligence Applications In 2024",
-      "youtube_url": "https://www.youtube.com/watch?v=1F_s76Vf5Sg",
-      "description": "Showcases real-world applications of Artificial Intelligence across various industries and daily life, illustrating its practical impact and relevance in today's world.",
+      "title": "Artificial Intelligence in 5 Minutes",
+      "youtube_url": "https://youtu.be/kwG2Sg_g73M",
+      "description": "A quick overview of what AI is, its applications in daily life, and a glimpse into its potential future, providing a good wrap-up for foundational understanding.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "The Ethics of AI: Crash Course AI #14",
-      "youtube_url": "https://www.youtube.com/watch?v=6P3h12aO1qY",
-      "description": "Explores the critical ethical challenges and societal implications arising from the development and deployment of artificial intelligence, prompting early critical thinking about responsible AI.",
-      "week_number": 1,
+      "title": "AI Agents Explained",
+      "youtube_url": "https://youtu.be/wz6QyqLdK9Q",
+      "description": "This video provides a comprehensive introduction to AI agents, defining what they are, their components (percepts, actions, environments), properties of environments (PEAS), and the different types of agents, laying a strong foundation for understanding autonomous systems.",
+      "week_number": 3,
       "tier_required": "foundational"
     },
     {
-      "title": "What is MLOps? An introduction to MLOps",
-      "youtube_url": "https://www.youtube.com/watch?v=qX3H_pM8oEw",
-      "description": "Explains the core concepts of MLOps, how it streamlines the machine learning lifecycle, and its importance for deploying and managing AI models in production.",
+      "title": "AI Agents - What are they and how do they work?",
+      "youtube_url": "https://youtu.be/F0f-q0I_v18",
+      "description": "A concise and clear explanation from IBM Technology on the fundamental concepts of AI agents, their interaction with environments, and the basic principles behind their autonomous decision-making processes.",
+      "week_number": 3,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "Intelligent Agents - L2.1 - Overview",
+      "youtube_url": "https://youtu.be/M99y9m3D1R0",
+      "description": "Part of a Georgia Tech lecture series, this video dives deeper into the various architectures of intelligent agents, including simple reflex, model-based, goal-based, and utility-based agents, offering crucial insights into how advanced autonomous systems are designed.",
+      "week_number": 3,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "What are Multi-Agent Systems?",
+      "youtube_url": "https://youtu.be/kY0R0jF3k6o",
+      "description": "This video introduces Multi-Agent Systems (MAS), explaining how multiple AI agents can interact, coordinate, and cooperate to solve complex problems, which is critical for developing advanced autonomous and distributed AI applications.",
+      "week_number": 3,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "Autonomous Agents Explained Simply",
+      "youtube_url": "https://youtu.be/jWJ-f9rB1X8",
+      "description": "This video offers a more contemporary perspective on autonomous agents, discussing their evolving capabilities, current applications, and the underlying principles that enable them to plan, adapt, and operate independently in complex environments, bridging theoretical concepts to modern implementations.",
+      "week_number": 3,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "What is MLOps? Introduction to Machine Learning Operations",
+      "youtube_url": "https://www.youtube.com/watch?v=Xh7Pz_bC1zM",
+      "description": "This video provides a foundational understanding of MLOps, explaining how to bridge the gap between AI development and production deployment. It covers the core concepts and practices necessary for launching and maintaining AI models in a real-world setting.",
       "week_number": 4,
       "tier_required": "foundational"
     },
     {
-      "title": "Monetizing AI Models: Business Models",
-      "youtube_url": "https://www.youtube.com/watch?v=t_X-v-z9T-c",
-      "description": "Dive into various business models for monetizing AI and machine learning products, exploring strategies like SaaS, API access, consulting, and subscription services.",
+      "title": "How to Build an AI Company (Business Models, Revenue, Tech, etc.)",
+      "youtube_url": "https://www.youtube.com/watch?v=42z_4n_zUuQ",
+      "description": "Dive into the various business models applicable to AI companies. This video explores different ways AI products can generate revenue, including SaaS, API-driven services, and other monetization strategies crucial for a successful launch and growth.",
       "week_number": 4,
       "tier_required": "foundational"
     },
     {
-      "title": "Monetization Models for AI and ML Products | AI Product Management",
-      "youtube_url": "https://www.youtube.com/watch?v=5r93qL6VqF8",
-      "description": "Focuses on different approaches to pricing and monetizing AI products, including value-based pricing, usage-based models, and the challenges specific to AI.",
+      "title": "How to Monetize AI Applications & Models - AI Monetization Strategies for Startups and Companies",
+      "youtube_url": "https://www.youtube.com/watch?v=FjIuK7T3j3E",
+      "description": "Focusing specifically on monetization, this video details practical strategies for pricing and selling AI products and services. It helps learners understand how to convert their AI solutions into sustainable revenue streams.",
       "week_number": 4,
       "tier_required": "foundational"
     },
     {
-      "title": "How to Build and Launch a Successful AI Product",
-      "youtube_url": "https://www.youtube.com/watch?v=N28m0k09vWc",
-      "description": "Provides a strategic overview of the process from developing an AI product to successfully bringing it to market, including considerations for MVP and go-to-market strategy.",
+      "title": "How to Launch Your AI Product: A Step-by-Step Guide",
+      "youtube_url": "https://www.youtube.com/watch?v=7uKjB46rXgM",
+      "description": "This video offers a comprehensive guide on the process of launching an AI product to market. It covers key steps from ideation to post-launch activities, providing insights into go-to-market strategies for AI-driven solutions.",
       "week_number": 4,
       "tier_required": "foundational"
     }
