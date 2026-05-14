@@ -1,72 +1,58 @@
 {
   "videos": [
     {
-      "title": "AI Agents - Problem Solving AI Agents Explained",
-      "youtube_url": "https://www.youtube.com/watch?v=FjIuC2V9-94",
-      "description": "This video provides a foundational understanding of AI agents, covering their definition, components (agent function, agent program), performance measures, environments (PEAS description), and various types like simple reflex, model-based reflex, goal-based, and utility-based agents. Essential for grasping the core concepts.",
-      "week_number": 3,
+      "title": "What is Artificial Intelligence?",
+      "youtube_url": "https://www.youtube.com/watch?v=FjIuC_eC5cQ",
+      "description": "This video provides a clear and concise introduction to artificial intelligence, defining what it is, its goals, and its importance in today's world. Perfect for absolute beginners.",
+      "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "Intelligent Agents in AI | Types of Intelligent Agents | With Examples",
-      "youtube_url": "https://www.youtube.com/watch?v=kYJj7eC-Ndw",
-      "description": "A concise overview that dives into the different types of intelligent agents, such as simple reflex, model-based reflex, goal-based, utility-based, and learning agents. It uses practical examples to illustrate how each agent type operates, reinforcing the concepts introduced in foundational texts.",
-      "week_number": 3,
+      "title": "Artificial Intelligence Explained | What Is AI? | AI Tutorial For Beginners | Simplilearn",
+      "youtube_url": "https://www.youtube.com/watch?v=ad79nYd-j3s",
+      "description": "A comprehensive beginner-friendly tutorial that covers the fundamentals of AI, including its history, types, applications, and basic concepts, giving a solid overview for those new to the field.",
+      "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What are LLM Agents?",
-      "youtube_url": "https://www.youtube.com/watch?v=zjkQ_GGLp8w",
-      "description": "Andrej Karpathy, a leading expert in AI, explains the concept of LLM (Large Language Model) Agents. This video discusses the paradigm shift from traditional AI models to autonomous agents capable of perceiving, reasoning, and acting in complex environments, crucial for understanding modern advancements.",
-      "week_number": 3,
+      "title": "AI vs Machine Learning vs Deep Learning | What's The Difference?",
+      "youtube_url": "https://www.youtube.com/watch?v=K3fT-J-c-qM",
+      "description": "This video clearly differentiates between Artificial Intelligence, Machine Learning, and Deep Learning, explaining their relationships and distinct characteristics, which is essential for building a correct conceptual framework.",
+      "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "The Rise of LLM Agents",
-      "youtube_url": "https://www.youtube.com/watch?v=mD3qP-y-6tM",
-      "description": "From DeepLearning.AI, this video explores the emergence and capabilities of LLM-powered agents. It covers their architecture, how they interact with tools, and practical examples of their use in various applications, providing a contemporary perspective on agent design and implementation.",
-      "week_number": 3,
+      "title": "How Does AI Work? | Artificial Intelligence | Simply Explained",
+      "youtube_url": "https://www.youtube.com/watch?v=J3mS_F4Wv6k",
+      "description": "A straightforward explanation of the fundamental principles behind artificial intelligence, touching on how machines learn and make decisions without diving into complex technical details, perfect for a high-level overview.",
+      "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "AI Agents Explained: From Traditional Agents to LLM-Powered Agents",
-      "youtube_url": "https://www.youtube.com/watch?v=c3k2y_6fD30",
-      "description": "This video bridges the gap between classical AI agent theory and the latest developments in LLM-powered agents. It provides context on the evolution of agent design, highlighting how large language models are enabling more sophisticated and autonomous behaviors in modern AI systems.",
-      "week_number": 3,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "How to Build a Successful AI Business (Full Presentation)",
-      "youtube_url": "https://www.youtube.com/watch?v=0h6kXlqVp0A",
-      "description": "Andrew Ng, a leading figure in AI, provides a comprehensive overview of building a successful AI business, covering everything from selecting the right problem to data strategy, product-market fit, and scaling. Essential for understanding the strategic aspects of launching and monetizing AI.",
+      "title": "What is MLOps? MLOps Explained in 100 Seconds",
+      "youtube_url": "https://www.youtube.com/watch?v=S5I-S8k1K6A",
+      "description": "A quick and foundational overview of MLOps, explaining the critical practices for deploying and maintaining machine learning models in production environments. Essential for understanding the 'Deployment' aspect of this week.",
       "week_number": 4,
       "tier_required": "foundational"
     },
     {
-      "title": "AI Business Models Explained with Examples",
-      "youtube_url": "https://www.youtube.com/watch?v=LqKx-y1g4qM",
-      "description": "This video breaks down various business models applicable to AI products and services, illustrating each with practical examples. It helps learners understand different monetization strategies, such as SaaS, API-as-a-service, platform models, and more, for AI-driven solutions.",
+      "title": "How AI Companies Make Money - Business Models",
+      "youtube_url": "https://www.youtube.com/watch?v=gJd1Fj-B5dM",
+      "description": "This video breaks down various business models employed by AI companies, from SaaS to API-driven services and data monetization. It's crucial for understanding how value is captured in the AI economy.",
       "week_number": 4,
       "tier_required": "foundational"
     },
     {
-      "title": "MLOps Explained Simply: The Complete Guide",
-      "youtube_url": "https://www.youtube.com/watch?v=k1tTf4v4y1A",
-      "description": "While not solely about business models, this video provides a foundational understanding of MLOps (Machine Learning Operations). It explains how deploying and managing AI models in production environments is critical for consistent performance, scalability, and ultimately, the continuous delivery of value that enables monetization.",
+      "title": "How to Launch a Product - Michael Seibel (Y Combinator)",
+      "youtube_url": "https://www.youtube.com/watch?v=kR2C27nQ_pY",
+      "description": "Michael Seibel, from Y Combinator, shares invaluable advice on the fundamental principles of launching a product. While not AI-specific, these foundational strategies for getting your product to market are universally applicable to AI startups.",
       "week_number": 4,
       "tier_required": "foundational"
     },
     {
-      "title": "Building and Launching AI Products - What I learned at Google",
-      "youtube_url": "https://www.youtube.com/watch?v=7hR9zI52hP8",
-      "description": "This presentation offers practical insights into the process of building and launching AI products, drawing from experience at a major tech company. It covers key considerations for product strategy, MVP development, user experience, and go-to-market approaches specific to AI solutions.",
-      "week_number": 4,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "Making money from Generative AI",
-      "youtube_url": "https://www.youtube.com/watch?v=1734j44k6kQ",
-      "description": "Scott Belsky of Adobe discusses the unique monetization opportunities and business models emerging with Generative AI. This video provides a timely perspective on how to create value and generate revenue from the latest advancements in AI technology.",
+      "title": "Monetization Strategies for AI Products: Unlocking Value and Revenue Streams",
+      "youtube_url": "https://www.youtube.com/watch?v=F3z3940F8vA",
+      "description": "Explore different strategies for monetizing AI products, including subscription models, usage-based pricing, freemium, and value-based pricing. This video provides practical insights into generating revenue from your AI solution.",
       "week_number": 4,
       "tier_required": "foundational"
     }
