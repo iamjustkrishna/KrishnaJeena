@@ -1,31 +1,59 @@
 {
   "videos": [
     {
-      "title": "What is artificial intelligence? | Jonathan Mugan",
-      "youtube_url": "https://www.youtube.com/watch?v=kWmX3L1QJ0Q",
-      "description": "A clear, concise explanation of what AI is, its history, and its potential, presented in an engaging animated format suitable for absolute beginners. This video lays the groundwork for understanding AI's core concepts.",
+      "title": "What Is AI? (And How Does It Work?)",
+      "youtube_url": "https://www.youtube.com/watch?v=ad79nYk7z7Q",
+      "description": "An engaging animated overview of what Artificial Intelligence is, how it's learned (machine learning, neural networks at a high level), and its incredible potential, making complex concepts easy to grasp.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What is Machine Learning?",
-      "youtube_url": "https://www.youtube.com/watch?v=K_N3_G-2jEw",
-      "description": "Introduces the fundamental concept of Machine Learning as a core component of AI, explaining how computers can learn from data without explicit programming in a simple and easy-to-understand way.",
+      "title": "What Is AI? Crash Course AI #1",
+      "youtube_url": "https://www.youtube.com/watch?v=N6fo_aBcvL8",
+      "description": "The first episode of Crash Course AI provides a structured introduction to defining AI, its historical context, and distinguishing between different types such as Narrow AI and General AI.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What Is AI? | Artificial Intelligence Explained",
-      "youtube_url": "https://www.youtube.com/watch?v=2_Wl4-p4g6w",
-      "description": "Provides a broad overview of AI, including its definition, key capabilities, different types (narrow, general, super), and real-world applications, making complex ideas accessible.",
+      "title": "What is AI? (Artificial Intelligence) - IBM Technology",
+      "youtube_url": "https://www.youtube.com/watch?v=0h5c5mE-Y3o",
+      "description": "A concise and professional explanation from IBM, covering the definition of AI, its major sub-disciplines like Machine Learning and Deep Learning, and a look at common real-world applications.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What Is AI? | Artificial Intelligence In 5 Minutes | AI Explained | Simplilearn",
-      "youtube_url": "https://www.youtube.com/watch?v=ad79nYkXbSg",
-      "description": "A rapid-fire introduction to Artificial Intelligence, covering its definition, history, types, and the exciting future applications of AI in a concise and digestible format, perfect for a quick comprehensive summary.",
+      "title": "AI, Explained.",
+      "youtube_url": "https://www.youtube.com/watch?v=Jm2S3l1c6y4",
+      "description": "This video demystifies how AI actually learns. It provides an accessible introduction to core machine learning concepts like supervised vs. unsupervised learning and a simplified look at neural networks.",
       "week_number": 1,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "Build a ChatGPT like AI App in Python with Streamlit",
+      "youtube_url": "https://www.youtube.com/watch?v=F0z-32L6e0I",
+      "description": "Learn to quickly develop interactive web applications for your AI models using Streamlit. This tutorial walks through building a ChatGPT-like interface, demonstrating how to connect an LLM to a user-friendly frontend.",
+      "week_number": 2,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "Gradio - Build a UI for your ML Models with Python (Quick Start Guide)",
+      "youtube_url": "https://www.youtube.com/watch?v=Xh0Q84I1o0s",
+      "description": "Discover Gradio as an alternative to Streamlit for creating simple, shareable web interfaces for your machine learning models in minutes. This video covers the basics of setting up a UI for inference.",
+      "week_number": 2,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "OpenAI Python API Crash Course (GPT-3/4 Tutorial)",
+      "youtube_url": "https://www.youtube.com/watch?v=b0wF43C3F8Q",
+      "description": "Get hands-on with the OpenAI Python API to integrate powerful language models like GPT-3 and GPT-4 into your applications. This crash course covers making API calls, understanding responses, and building basic LLM interactions.",
+      "week_number": 2,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "LangChain Crash Course for Beginners",
+      "youtube_url": "https://www.youtube.com/watch?v=PP_X3F6Z22w",
+      "description": "Learn the fundamentals of LangChain, a powerful framework for developing applications powered by large language models. This course introduces chains, agents, memory, and how to combine various components to build more complex and stateful AI apps.",
+      "week_number": 2,
       "tier_required": "foundational"
     }
   ]
