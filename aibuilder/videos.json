@@ -1,59 +1,66 @@
 {
   "videos": [
     {
-      "title": "What Is AI? (And How Does It Work?)",
-      "youtube_url": "https://www.youtube.com/watch?v=ad79nYk7z7Q",
-      "description": "An engaging animated overview of what Artificial Intelligence is, how it's learned (machine learning, neural networks at a high level), and its incredible potential, making complex concepts easy to grasp.",
+      "title": "Artificial Intelligence - What is AI?",
+      "youtube_url": "https://youtu.be/kWmX3rbC1ps",
+      "description": "This video from CrashCourse provides a fantastic introduction to Artificial Intelligence, covering its definition, historical context, and the foundational idea behind its development, including the Turing Test.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What Is AI? Crash Course AI #1",
-      "youtube_url": "https://www.youtube.com/watch?v=N6fo_aBcvL8",
-      "description": "The first episode of Crash Course AI provides a structured introduction to defining AI, its historical context, and distinguishing between different types such as Narrow AI and General AI.",
+      "title": "AI vs. Machine Learning vs. Deep Learning: What's The Difference?",
+      "youtube_url": "https://youtu.be/wsT_yR0B02Y",
+      "description": "IBM Technology clearly explains the distinctions and relationships between Artificial Intelligence, Machine Learning, and Deep Learning\u2014a crucial clarification for anyone starting to learn about AI.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What is AI? (Artificial Intelligence) - IBM Technology",
-      "youtube_url": "https://www.youtube.com/watch?v=0h5c5mE-Y3o",
-      "description": "A concise and professional explanation from IBM, covering the definition of AI, its major sub-disciplines like Machine Learning and Deep Learning, and a look at common real-world applications.",
+      "title": "How Does Artificial Intelligence Work? | Tech Explained",
+      "youtube_url": "https://youtu.be/Fj2F5p62q_4",
+      "description": "The Wall Street Journal offers an accessible overview of the basic mechanisms and core components that enable AI systems to function, demystifying the technology at a high level.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "AI, Explained.",
-      "youtube_url": "https://www.youtube.com/watch?v=Jm2S3l1c6y4",
-      "description": "This video demystifies how AI actually learns. It provides an accessible introduction to core machine learning concepts like supervised vs. unsupervised learning and a simplified look at neural networks.",
+      "title": "The 3 Types of AI",
+      "youtube_url": "https://youtu.be/gq0Q3vSj2xQ",
+      "description": "Simplilearn introduces the three main classifications of AI\u2014Narrow AI, General AI, and Superintelligence\u2014providing a framework for understanding AI's current capabilities and future trajectory.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "Build a ChatGPT like AI App in Python with Streamlit",
-      "youtube_url": "https://www.youtube.com/watch?v=F0z-32L6e0I",
-      "description": "Learn to quickly develop interactive web applications for your AI models using Streamlit. This tutorial walks through building a ChatGPT-like interface, demonstrating how to connect an LLM to a user-friendly frontend.",
-      "week_number": 2,
+      "title": "MLOps Explained: From Concept to Production (with Example)",
+      "youtube_url": "https://www.youtube.com/watch?v=F0S12R8M_4A",
+      "description": "This video provides a practical introduction to MLOps, demonstrating the lifecycle of deploying machine learning models to production and the tools involved, crucial for successful AI launches.",
+      "week_number": 4,
       "tier_required": "foundational"
     },
     {
-      "title": "Gradio - Build a UI for your ML Models with Python (Quick Start Guide)",
-      "youtube_url": "https://www.youtube.com/watch?v=Xh0Q84I1o0s",
-      "description": "Discover Gradio as an alternative to Streamlit for creating simple, shareable web interfaces for your machine learning models in minutes. This video covers the basics of setting up a UI for inference.",
-      "week_number": 2,
+      "title": "AI Business Models Explained: How To Make Money With AI",
+      "youtube_url": "https://www.youtube.com/watch?v=hGzY230K46I",
+      "description": "Learn about various business models for AI products and services, including SaaS, API access, and value-based pricing, to understand how to monetize your AI solution effectively.",
+      "week_number": 4,
       "tier_required": "foundational"
     },
     {
-      "title": "OpenAI Python API Crash Course (GPT-3/4 Tutorial)",
-      "youtube_url": "https://www.youtube.com/watch?v=b0wF43C3F8Q",
-      "description": "Get hands-on with the OpenAI Python API to integrate powerful language models like GPT-3 and GPT-4 into your applications. This crash course covers making API calls, understanding responses, and building basic LLM interactions.",
-      "week_number": 2,
+      "title": "How to Launch an AI Product | Product Strategy and Go-to-Market",
+      "youtube_url": "https://www.youtube.com/watch?v=Yf9jX6v38Jc",
+      "description": "Gain insights into the strategic aspects of launching an AI product, covering market analysis, value proposition, and developing a robust go-to-market plan for success.",
+      "week_number": 4,
       "tier_required": "foundational"
     },
     {
-      "title": "LangChain Crash Course for Beginners",
-      "youtube_url": "https://www.youtube.com/watch?v=PP_X3F6Z22w",
-      "description": "Learn the fundamentals of LangChain, a powerful framework for developing applications powered by large language models. This course introduces chains, agents, memory, and how to combine various components to build more complex and stateful AI apps.",
-      "week_number": 2,
+      "title": "What is MLOps and why you need it",
+      "youtube_url": "https://www.youtube.com/watch?v=22_t1bUjNqM",
+      "description": "A concise explanation of MLOps, highlighting its importance in bridging the gap between data science and operations to ensure reliable, scalable, and maintainable AI deployments.",
+      "week_number": 4,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "AI Product Management: Creating Products with Intelligence",
+      "youtube_url": "https://www.youtube.com/watch?v=33L93qN4vjY",
+      "description": "Explores the unique challenges and best practices in managing AI products, focusing on understanding user needs, defining AI capabilities, and iterating for sustained value and monetization.",
+      "week_number": 4,
       "tier_required": "foundational"
     }
   ]
