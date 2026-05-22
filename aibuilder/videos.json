@@ -1,74 +1,102 @@
 {
   "videos": [
     {
-      "title": "What is Artificial Intelligence (AI)?",
-      "youtube_url": "https://www.youtube.com/watch?v=Fj-yO2uM2_M",
-      "description": "Explains what AI is, its different types (ANI, AGI, ASI), and common applications in a clear, concise manner. Excellent foundational overview for beginners.",
+      "title": "Artificial Intelligence Explained - What is AI?",
+      "youtube_url": "https://youtu.be/JmF35a2qH5U",
+      "description": "This video provides a comprehensive yet easy-to-understand introduction to Artificial Intelligence, covering its definition, history, types, and real-world applications. Perfect for beginners to grasp the core concepts.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What is AI? Machine Learning? Deep Learning?",
-      "youtube_url": "https://www.youtube.com/watch?v=k2GjFkZVHcc",
-      "description": "Clearly distinguishes between Artificial Intelligence, Machine Learning, and Deep Learning, which are often conflated, providing essential conceptual clarity for beginners.",
+      "title": "The Difference Between AI, Machine Learning, and Deep Learning",
+      "youtube_url": "https://youtu.be/Ys2Y4EGy81M",
+      "description": "This video clearly distinguishes between Artificial Intelligence, Machine Learning, and Deep Learning, explaining their relationships and how they fit together in the broader field of AI. Essential for clarifying common confusions.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "How does AI learn? - Kevin Roose",
-      "youtube_url": "https://www.youtube.com/watch?v=R9OHn5ZF4Uo",
-      "description": "An engaging animation that simplifies the concept of how AI (specifically machine learning) learns from data, using intuitive examples without getting overly technical.",
+      "title": "How Does AI Work? (Simply Explained)",
+      "youtube_url": "https://youtu.be/adB4d_30yKs",
+      "description": "Kurzgesagt offers a visually engaging and high-level explanation of the fundamental principles behind how Artificial Intelligence learns and operates, making complex ideas accessible without deep technical jargon.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "AI in 2024: The State of Artificial Intelligence",
-      "youtube_url": "https://www.youtube.com/watch?v=cK2P0T6d3a0",
-      "description": "Provides a broader perspective on the current state of AI, its widespread applications across various industries, and a glimpse into its societal impact.",
+      "title": "The 7 Steps of Machine Learning",
+      "youtube_url": "https://youtu.be/n3k5eE2-D2I",
+      "description": "From Google Developers, this video breaks down the typical workflow of a Machine Learning project into seven clear steps. While focusing on ML, it provides crucial insight into the practical aspects of building AI systems, which is foundational to understanding AI's capabilities.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "The Rise of the Machines \u2013 Why AI is More Than You Think",
-      "youtube_url": "https://www.youtube.com/watch?v=MR5rxK8_c_w",
-      "description": "Offers a thought-provoking, high-level overview of AI's potential, its current limitations, and what its future might hold, inspiring deeper thought about the subject.",
-      "week_number": 1,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "OpenAI API Crash Course | Build a ChatGPT Clone in Python",
-      "youtube_url": "https://www.youtube.com/watch?v=sO3b9ngg2g4",
-      "description": "Learn the essentials of the OpenAI API, including chat completions, by building a practical ChatGPT-like application in Python, covering core concepts for integrating AI into your projects.",
+      "title": "Build your FIRST AI APP with PYTHON & OPENAI API! (Easy Tutorial for Beginners)",
+      "youtube_url": "https://www.youtube.com/watch?v=F3Jg7j4lT5o",
+      "description": "Learn to integrate Python with the OpenAI API to create your first functional AI application, focusing on text generation and basic chat functionalities.",
       "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "LangChain Crash Course for Beginners | Build LLM Apps with Python",
-      "youtube_url": "https://www.youtube.com/watch?v=L_GuzsF8C7k",
-      "description": "An introduction to LangChain, a powerful framework for building complex LLM applications. This video covers chains, prompts, and memory to help you orchestrate advanced AI workflows in Python.",
+      "title": "Build an AI App with Python, OpenAI, and Streamlit (ChatGPT Clone)",
+      "youtube_url": "https://www.youtube.com/watch?v=kYJ6H4pC0lE",
+      "description": "Discover how to combine the power of OpenAI's models with Streamlit to build interactive web applications, demonstrating practical UI development for AI.",
       "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "Build a ChatGPT-like App with OpenAI API and Streamlit",
-      "youtube_url": "https://www.youtube.com/watch?v=Ll1WkIpkx0c",
-      "description": "A hands-on guide to creating interactive AI web applications. This tutorial combines the OpenAI API with Streamlit for rapid prototyping and deployment of user-friendly interfaces.",
+      "title": "Hugging Face for Beginners - Build an AI App!",
+      "youtube_url": "https://www.youtube.com/watch?v=E7K21L4Xb6g",
+      "description": "Dive into the Hugging Face ecosystem to utilize pre-trained models for various NLP tasks and build a simple AI application using their pipelines.",
       "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "Hugging Face Spaces and Gradio for creating Machine Learning Apps",
-      "youtube_url": "https://www.youtube.com/watch?v=FjI5oH3nE0c",
-      "description": "Discover how to quickly build and share interactive web demos for machine learning models using Hugging Face Spaces and Gradio, enabling easy deployment without complex server setup.",
+      "title": "Learn How to Build AI Apps with Python for Beginners",
+      "youtube_url": "https://www.youtube.com/watch?v=J_BBYe9R2oU",
+      "description": "This tutorial covers the foundational steps of creating a simple AI application using Python, demonstrating how to train and integrate a basic machine learning model.",
       "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "LangChain Agents: How to Build with LLM Agents (Hands-On Tutorial)",
-      "youtube_url": "https://www.youtube.com/watch?v=Lqj-tN5kX4E",
-      "description": "Dive deeper into LangChain by learning to build intelligent LLM agents. This tutorial shows how to empower your AI applications to reason, plan, and use external tools to achieve complex goals.",
+      "title": "Build Machine Learning Web Apps in Python with Gradio",
+      "youtube_url": "https://www.youtube.com/watch?v=t4k3k9m031U",
+      "description": "Learn to quickly build user interfaces for your machine learning models and AI applications using Gradio, a fast way to share demos.",
       "week_number": 2,
       "tier_required": "foundational"
+    },
+    {
+      "title": "AI Agents Explained: What are they and how do they work?",
+      "youtube_url": "https://www.youtube.com/watch?v=Jm2e3pL25tU",
+      "description": "Provides a clear, concise introduction to AI agents, defining what they are, their core components (perception, action, environment), and different types (simple reflex, goal-based).",
+      "week_number": 3,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "How AI Agents will change EVERYTHING (LangChain, AutoGPT, BabyAGI)",
+      "youtube_url": "https://www.youtube.com/watch?v=kYJv4j6y6A8",
+      "description": "Explores the current landscape of AI agents, particularly those powered by Large Language Models (LLMs), discussing popular frameworks like LangChain and showcasing practical examples like AutoGPT.",
+      "week_number": 3,
+      "tier_required": "intermediate"
+    },
+    {
+      "title": "Intelligent Agents - Lecture 2 - Stanford CS221: Artificial Intelligence",
+      "youtube_url": "https://www.youtube.com/watch?v=42sK58t5v7E",
+      "description": "A foundational academic lecture that delves into the theoretical underpinnings of intelligent agents, covering their architecture, environments, types, and how they make decisions.",
+      "week_number": 3,
+      "tier_required": "intermediate"
+    },
+    {
+      "title": "Introduction to Multi-Agent Systems | Reinforcement Learning for Self-Driving Cars",
+      "youtube_url": "https://www.youtube.com/watch?v=680L0-5E95E",
+      "description": "Introduces the concept of multi-agent systems, where multiple AI agents interact, and discusses their application in complex autonomous scenarios like self-driving cars, touching upon reinforcement learning.",
+      "week_number": 3,
+      "tier_required": "advanced"
+    },
+    {
+      "title": "The Future of AI Agents: Autonomous, Adaptive, and Empowered | Dr. Robert Schapire",
+      "youtube_url": "https://www.youtube.com/watch?v=UqQc3167mO0",
+      "description": "Dr. Robert Schapire from Google DeepMind discusses the future trajectory of AI agents, emphasizing autonomy, adaptability, and the empowerment they offer, providing insights from cutting-edge research.",
+      "week_number": 3,
+      "tier_required": "advanced"
     }
   ]
 }
