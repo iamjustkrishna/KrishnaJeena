@@ -1,102 +1,67 @@
 {
   "videos": [
     {
-      "title": "Artificial Intelligence Explained - What is AI?",
-      "youtube_url": "https://youtu.be/JmF35a2qH5U",
-      "description": "This video provides a comprehensive yet easy-to-understand introduction to Artificial Intelligence, covering its definition, history, types, and real-world applications. Perfect for beginners to grasp the core concepts.",
+      "title": "The AI Revolution: The Good, The Bad, and The Ugly",
+      "youtube_url": "https://www.youtube.com/watch?v=WSX_sY_J384",
+      "description": "An engaging and visually stunning introduction to Artificial Intelligence, covering its definition, potential benefits, inherent risks, and broader societal implications. Perfect for understanding the big picture.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "The Difference Between AI, Machine Learning, and Deep Learning",
-      "youtube_url": "https://youtu.be/Ys2Y4EGy81M",
-      "description": "This video clearly distinguishes between Artificial Intelligence, Machine Learning, and Deep Learning, explaining their relationships and how they fit together in the broader field of AI. Essential for clarifying common confusions.",
+      "title": "What is AI (Artificial Intelligence)?",
+      "youtube_url": "https://www.youtube.com/watch?v=F_BwJzI-e9k",
+      "description": "This video from IBM offers a concise and clear explanation of what AI is, how it works at a fundamental level, its various subfields like Machine Learning and Deep Learning, and common real-world applications.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "How Does AI Work? (Simply Explained)",
-      "youtube_url": "https://youtu.be/adB4d_30yKs",
-      "description": "Kurzgesagt offers a visually engaging and high-level explanation of the fundamental principles behind how Artificial Intelligence learns and operates, making complex ideas accessible without deep technical jargon.",
+      "title": "What is Machine Learning? Learn the basics of machine learning for absolute beginners",
+      "youtube_url": "https://www.youtube.com/watch?v=f_uwKZIAeM0",
+      "description": "Dive into the core concept of Machine Learning, a critical component of AI. This video explains what ML is, its importance, how it differs from traditional programming, and basic types of learning.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "The 7 Steps of Machine Learning",
-      "youtube_url": "https://youtu.be/n3k5eE2-D2I",
-      "description": "From Google Developers, this video breaks down the typical workflow of a Machine Learning project into seven clear steps. While focusing on ML, it provides crucial insight into the practical aspects of building AI systems, which is foundational to understanding AI's capabilities.",
+      "title": "What is Artificial Intelligence? | AI Explained | Artificial Intelligence | Simplilearn",
+      "youtube_url": "https://www.youtube.com/watch?v=ad79nYmks3Y",
+      "description": "A comprehensive introductory video that covers the definition, brief history, different types (ANI, AGI, ASI), practical applications, and future trends of Artificial Intelligence, consolidating many foundational concepts.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "Build your FIRST AI APP with PYTHON & OPENAI API! (Easy Tutorial for Beginners)",
-      "youtube_url": "https://www.youtube.com/watch?v=F3Jg7j4lT5o",
-      "description": "Learn to integrate Python with the OpenAI API to create your first functional AI application, focusing on text generation and basic chat functionalities.",
+      "title": "The thrilling potential of A.I. | Maurice Conti",
+      "youtube_url": "https://www.youtube.com/watch?v=YpQe2M5PzXQ",
+      "description": "A thought-provoking TED-Ed talk that explores the transformative potential of AI, discussing how it could augment human creativity and problem-solving capabilities, offering a forward-looking perspective on the technology's impact.",
+      "week_number": 1,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "Streamlit Tutorial: The Fastest Way to Build Data Science Apps in Python",
+      "youtube_url": "https://youtu.be/sysX_M0r1tQ",
+      "description": "An excellent foundational tutorial for using Streamlit to build interactive web applications for data science and AI models with pure Python, no web development experience needed. Covers basic components, data display, user input, and deploying simple apps.",
       "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "Build an AI App with Python, OpenAI, and Streamlit (ChatGPT Clone)",
-      "youtube_url": "https://www.youtube.com/watch?v=kYJ6H4pC0lE",
-      "description": "Discover how to combine the power of OpenAI's models with Streamlit to build interactive web applications, demonstrating practical UI development for AI.",
+      "title": "Gradio Tutorial: Build ML Web Apps in Python without Frontend Experience!",
+      "youtube_url": "https://youtu.be/y3hR3c89r3s",
+      "description": "Learn how to quickly build interactive web interfaces for your machine learning models using Gradio. Perfect for creating demos and sharing models without extensive web development skills. Covers basic components, model integration, and easy deployment.",
       "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "Hugging Face for Beginners - Build an AI App!",
-      "youtube_url": "https://www.youtube.com/watch?v=E7K21L4Xb6g",
-      "description": "Dive into the Hugging Face ecosystem to utilize pre-trained models for various NLP tasks and build a simple AI application using their pipelines.",
+      "title": "Deploy a Machine Learning Model as a REST API (Python & Flask)",
+      "youtube_url": "https://youtu.be/nO2_7t17L-g",
+      "description": "This video provides a step-by-step guide on how to serve a trained machine learning model through a RESTful API using Python and Flask, enabling integration into larger applications. Covers model loading, prediction endpoint, and basic API structure.",
       "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "Learn How to Build AI Apps with Python for Beginners",
-      "youtube_url": "https://www.youtube.com/watch?v=J_BBYe9R2oU",
-      "description": "This tutorial covers the foundational steps of creating a simple AI application using Python, demonstrating how to train and integrate a basic machine learning model.",
+      "title": "Build a Python Chatbot in 15 Minutes with Streamlit & OpenAI",
+      "youtube_url": "https://youtu.be/hN2-0JtQj5Q",
+      "description": "A quick and practical tutorial demonstrating how to create a functional AI chatbot using Python, Streamlit for the front-end, and the OpenAI API for language model capabilities. Ideal for understanding the basics of integrating Large Language Models (LLMs) into web applications.",
       "week_number": 2,
       "tier_required": "foundational"
-    },
-    {
-      "title": "Build Machine Learning Web Apps in Python with Gradio",
-      "youtube_url": "https://www.youtube.com/watch?v=t4k3k9m031U",
-      "description": "Learn to quickly build user interfaces for your machine learning models and AI applications using Gradio, a fast way to share demos.",
-      "week_number": 2,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "AI Agents Explained: What are they and how do they work?",
-      "youtube_url": "https://www.youtube.com/watch?v=Jm2e3pL25tU",
-      "description": "Provides a clear, concise introduction to AI agents, defining what they are, their core components (perception, action, environment), and different types (simple reflex, goal-based).",
-      "week_number": 3,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "How AI Agents will change EVERYTHING (LangChain, AutoGPT, BabyAGI)",
-      "youtube_url": "https://www.youtube.com/watch?v=kYJv4j6y6A8",
-      "description": "Explores the current landscape of AI agents, particularly those powered by Large Language Models (LLMs), discussing popular frameworks like LangChain and showcasing practical examples like AutoGPT.",
-      "week_number": 3,
-      "tier_required": "intermediate"
-    },
-    {
-      "title": "Intelligent Agents - Lecture 2 - Stanford CS221: Artificial Intelligence",
-      "youtube_url": "https://www.youtube.com/watch?v=42sK58t5v7E",
-      "description": "A foundational academic lecture that delves into the theoretical underpinnings of intelligent agents, covering their architecture, environments, types, and how they make decisions.",
-      "week_number": 3,
-      "tier_required": "intermediate"
-    },
-    {
-      "title": "Introduction to Multi-Agent Systems | Reinforcement Learning for Self-Driving Cars",
-      "youtube_url": "https://www.youtube.com/watch?v=680L0-5E95E",
-      "description": "Introduces the concept of multi-agent systems, where multiple AI agents interact, and discusses their application in complex autonomous scenarios like self-driving cars, touching upon reinforcement learning.",
-      "week_number": 3,
-      "tier_required": "advanced"
-    },
-    {
-      "title": "The Future of AI Agents: Autonomous, Adaptive, and Empowered | Dr. Robert Schapire",
-      "youtube_url": "https://www.youtube.com/watch?v=UqQc3167mO0",
-      "description": "Dr. Robert Schapire from Google DeepMind discusses the future trajectory of AI agents, emphasizing autonomy, adaptability, and the empowerment they offer, providing insights from cutting-edge research.",
-      "week_number": 3,
-      "tier_required": "advanced"
     }
   ]
 }
