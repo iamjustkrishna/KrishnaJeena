@@ -17,7 +17,6 @@ all_videos = []
 for week in weeks:
     prompt = f"""You are an AI education curator. For week {week['num']}: "{week['topic']}" 
 Context: {week['context']}
-Make sure youtube links work
 
 Recommend 4-5 best YouTube videos for learning this topic.
 Return ONLY this JSON format (no markdown, no extra text):
@@ -28,7 +27,7 @@ Return ONLY this JSON format (no markdown, no extra text):
 
     # Updated syntax for the new SDK
     response = client.models.generate_content(
-        model="gemini-2.5-flash", 
+        model="gemini-3.5-flash", 
         contents=prompt
     )
 
