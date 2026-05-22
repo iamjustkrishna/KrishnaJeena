@@ -1,66 +1,115 @@
 {
   "videos": [
     {
-      "title": "The AI Revolution: The Good, The Bad, and The Ugly",
-      "youtube_url": "https://www.youtube.com/watch?v=WSX_sY_J384",
-      "description": "An engaging and visually stunning introduction to Artificial Intelligence, covering its definition, potential benefits, inherent risks, and broader societal implications. Perfect for understanding the big picture.",
+      "title": "But what is a neural network? | Chapter 1, Deep learning",
+      "youtube_url": "https://youtu.be/aircAruvnKk",
+      "description": "A visually stunning and intuitive introduction to how neural networks work, breaking down the core structure and mathematics of deep learning in an accessible way.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What is AI (Artificial Intelligence)?",
-      "youtube_url": "https://www.youtube.com/watch?v=F_BwJzI-e9k",
-      "description": "This video from IBM offers a concise and clear explanation of what AI is, how it works at a fundamental level, its various subfields like Machine Learning and Deep Learning, and common real-world applications.",
+      "title": "[Intro to Large Language Models]",
+      "youtube_url": "https://youtu.be/zjkBMFhNj_g",
+      "description": "A highly accessible and comprehensive introduction to LLMs, explaining how they are trained, how they work, and their future direction by leading AI researcher Andrej Karpathy.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What is Machine Learning? Learn the basics of machine learning for absolute beginners",
-      "youtube_url": "https://www.youtube.com/watch?v=f_uwKZIAeM0",
-      "description": "Dive into the core concept of Machine Learning, a critical component of AI. This video explains what ML is, its importance, how it differs from traditional programming, and basic types of learning.",
+      "title": "What is Artificial Intelligence (AI)?",
+      "youtube_url": "https://youtu.be/ad79nYk2kEg",
+      "description": "A clear, high-level conceptual overview from IBM Technology defining Artificial Intelligence, Machine Learning, and Deep Learning, and how they differ.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "What is Artificial Intelligence? | AI Explained | Artificial Intelligence | Simplilearn",
-      "youtube_url": "https://www.youtube.com/watch?v=ad79nYmks3Y",
-      "description": "A comprehensive introductory video that covers the definition, brief history, different types (ANI, AGI, ASI), practical applications, and future trends of Artificial Intelligence, consolidating many foundational concepts.",
+      "title": "How Machines Learn",
+      "youtube_url": "https://youtu.be/R9OHn5ZF4Uo",
+      "description": "A fun, engaging, and non-technical conceptual introduction to machine learning algorithms, neural networks, and evolutionary AI models.",
       "week_number": 1,
       "tier_required": "foundational"
     },
     {
-      "title": "The thrilling potential of A.I. | Maurice Conti",
-      "youtube_url": "https://www.youtube.com/watch?v=YpQe2M5PzXQ",
-      "description": "A thought-provoking TED-Ed talk that explores the transformative potential of AI, discussing how it could augment human creativity and problem-solving capabilities, offering a forward-looking perspective on the technology's impact.",
-      "week_number": 1,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "Streamlit Tutorial: The Fastest Way to Build Data Science Apps in Python",
-      "youtube_url": "https://youtu.be/sysX_M0r1tQ",
-      "description": "An excellent foundational tutorial for using Streamlit to build interactive web applications for data science and AI models with pure Python, no web development experience needed. Covers basic components, data display, user input, and deploying simple apps.",
+      "title": "Python OpenAI API Crash Course - Build Your First AI App",
+      "youtube_url": "https://youtu.be/b9v1-v68vXg",
+      "description": "Learn how to set up the OpenAI API, handle authentication, and write your first Python scripts to interact with GPT models, establishing the core building blocks for AI development.",
       "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "Gradio Tutorial: Build ML Web Apps in Python without Frontend Experience!",
-      "youtube_url": "https://youtu.be/y3hR3c89r3s",
-      "description": "Learn how to quickly build interactive web interfaces for your machine learning models using Gradio. Perfect for creating demos and sharing models without extensive web development skills. Covers basic components, model integration, and easy deployment.",
+      "title": "Build a RAG App in 15 Minutes (LangChain, OpenAI, ChromaDB)",
+      "youtube_url": "https://youtu.be/LhnCsygAvzY",
+      "description": "A highly practical, step-by-step tutorial on building a Retrieval-Augmented Generation (RAG) system to query your private PDF documents using LangChain and a vector database.",
       "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "Deploy a Machine Learning Model as a REST API (Python & Flask)",
-      "youtube_url": "https://youtu.be/nO2_7t17L-g",
-      "description": "This video provides a step-by-step guide on how to serve a trained machine learning model through a RESTful API using Python and Flask, enabling integration into larger applications. Covers model loading, prediction endpoint, and basic API structure.",
+      "title": "How to Build an AI Chatbot Web App with Streamlit",
+      "youtube_url": "https://youtu.be/39ZgOIdg-g0",
+      "description": "Discover how to quickly wrap your Python AI backend with a polished, interactive web-based chat interface using Streamlit, making your application user-friendly.",
       "week_number": 2,
       "tier_required": "foundational"
     },
     {
-      "title": "Build a Python Chatbot in 15 Minutes with Streamlit & OpenAI",
-      "youtube_url": "https://youtu.be/hN2-0JtQj5Q",
-      "description": "A quick and practical tutorial demonstrating how to create a functional AI chatbot using Python, Streamlit for the front-end, and the OpenAI API for language model capabilities. Ideal for understanding the basics of integrating Large Language Models (LLMs) into web applications.",
+      "title": "Build Multi-Agent AI Systems with CrewAI",
+      "youtube_url": "https://youtu.be/MVP28XUyeFc",
+      "description": "Step up your AI engineering skills by learning how to design, program, and run autonomous multi-agent teams that collaborate on complex tasks using the CrewAI framework.",
       "week_number": 2,
+      "tier_required": "advanced"
+    },
+    {
+      "title": "What are AI Agents?",
+      "youtube_url": "https://youtu.be/F8NKVhk0Kf4",
+      "description": "A clear, foundational breakdown by IBM Technology of what AI agents are, how they reason, make decisions, use tools, and operate autonomously to accomplish complex tasks.",
+      "week_number": 3,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "Andrew Ng: AI Agentic Workflows",
+      "youtube_url": "https://youtu.be/sal78ac_Of4",
+      "description": "Renowned AI pioneer Andrew Ng explains the paradigm shift from zero-shot prompting to agentic workflows, detailing key patterns like reflection, tool use, planning, and multi-agent collaboration.",
+      "week_number": 3,
+      "tier_required": "intermediate"
+    },
+    {
+      "title": "Introduction to LangGraph: Building Multi-Agent Architectures",
+      "youtube_url": "https://youtu.be/R8Z0mshbH4U",
+      "description": "An advanced look at building stateful, multi-agent runtimes with LangGraph, showing how to coordinate multiple specialized agents in a cyclic graph structure.",
+      "week_number": 3,
+      "tier_required": "advanced"
+    },
+    {
+      "title": "CrewAI Tutorial: Orchestrating Multi-Agent Systems",
+      "youtube_url": "https://youtu.be/n3v_W9R63Y4",
+      "description": "A hands-on guide on how to program and orchestrate role-playing autonomous AI agents using the CrewAI framework to automate complex multi-step processes.",
+      "week_number": 3,
+      "tier_required": "intermediate"
+    },
+    {
+      "title": "How to Build, Deploy, and Launch a SaaS",
+      "youtube_url": "https://youtu.be/8mS_WpG65vM",
+      "description": "A comprehensive walkthrough on taking a software product from local development to production deployment and launching it to your first users.",
+      "week_number": 4,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "SaaS Pricing Models: How to Price Your Software Product",
+      "youtube_url": "https://youtu.be/jx8fC9G8KQA",
+      "description": "An in-depth guide on choosing the right monetization strategy and pricing tier structure for your application to maximize conversion and revenue.",
+      "week_number": 4,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "How to Deploy a Full Stack Web App (Node, React, Postgres)",
+      "youtube_url": "https://youtu.be/MsnQ5uepIaE",
+      "description": "Learn how to deploy your frontend, backend, and database using modern cloud services like Render, Vercel, and Supabase.",
+      "week_number": 4,
+      "tier_required": "foundational"
+    },
+    {
+      "title": "Understanding Cloud Deployment & CI/CD Pipelines",
+      "youtube_url": "https://youtu.be/scEDHsr3APg",
+      "description": "A beginner-friendly guide to continuous integration and continuous deployment (CI/CD), explaining how to automate your software releases.",
+      "week_number": 4,
       "tier_required": "foundational"
     }
   ]
