@@ -17,6 +17,7 @@ all_videos = []
 for week in weeks:
     prompt = f"""You are an AI education curator. For week {week['num']}: "{week['topic']}" 
 Context: {week['context']}
+Make sure youtube links work
 
 Recommend 4-5 best YouTube videos for learning this topic.
 Return ONLY this JSON format (no markdown, no extra text):
