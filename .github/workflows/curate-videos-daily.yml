@@ -23,11 +23,14 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install google-genai requests
+          python -m pip install --upgrade pip
+          pip install google-api-python-client google-genai requests
 
       - name: Run curation script
         env:
+          GEMINI_API_KEY_AI: ${{ secrets.GEMINI_API_KEY_AI }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_AI }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python aibuilder/curate_videos.py
 
       - name: Commit and push changes
