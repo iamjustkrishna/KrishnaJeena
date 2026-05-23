@@ -1,116 +1,169 @@
 {
   "videos": [
     {
-      "title": "But what is a neural network? | Chapter 1, Deep learning",
-      "youtube_url": "https://youtu.be/aircAruvnKk",
-      "description": "A visually stunning and intuitive introduction to how neural networks work, breaking down the core structure and mathematics of deep learning in an accessible way.",
+      "video_title": "But what is a neural network? | Deep learning chapter 1",
+      "title": "But what is a neural network? | Deep learning chapter 1",
+      "video_url": "https://www.youtube.com/watch?v=aircAruvnKk",
+      "youtube_url": "https://www.youtube.com/watch?v=aircAruvnKk",
+      "description": "What are the neurons, why are there layers, and what is the math underlying it? Help fund future projects: ...",
+      "is_active": true,
       "week_number": 1,
-      "tier_required": "foundational"
+      "tier_required": "foundational",
+      "sort_order": 0
     },
     {
-      "title": "[Intro to Large Language Models]",
-      "youtube_url": "https://youtu.be/zjkBMFhNj_g",
-      "description": "A highly accessible and comprehensive introduction to LLMs, explaining how they are trained, how they work, and their future direction by leading AI researcher Andrej Karpathy.",
+      "video_title": "[1hr Talk] Intro to Large Language Models",
+      "title": "[1hr Talk] Intro to Large Language Models",
+      "video_url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+      "youtube_url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+      "description": "This is a 1 hour general-audience introduction to Large Language Models: the core technical component behind systems like ...",
+      "is_active": true,
       "week_number": 1,
-      "tier_required": "foundational"
+      "tier_required": "foundational",
+      "sort_order": 1
     },
     {
-      "title": "What is Artificial Intelligence (AI)?",
-      "youtube_url": "https://youtu.be/ad79nYk2kEg",
-      "description": "A clear, high-level conceptual overview from IBM Technology defining Artificial Intelligence, Machine Learning, and Deep Learning, and how they differ.",
+      "video_title": "Machine Learning for Everybody \u2013 Full Course",
+      "title": "Machine Learning for Everybody \u2013 Full Course",
+      "video_url": "https://www.youtube.com/watch?v=i_LwzRVP7bg",
+      "youtube_url": "https://www.youtube.com/watch?v=i_LwzRVP7bg",
+      "description": "Learn Machine Learning in a way that is accessible to absolute beginners. You will learn the basics of Machine Learning and how ...",
+      "is_active": true,
       "week_number": 1,
-      "tier_required": "foundational"
+      "tier_required": "foundational",
+      "sort_order": 2
     },
     {
-      "title": "How Machines Learn",
-      "youtube_url": "https://youtu.be/R9OHn5ZF4Uo",
-      "description": "A fun, engaging, and non-technical conceptual introduction to machine learning algorithms, neural networks, and evolutionary AI models.",
+      "video_title": "The Essential Main Ideas of Neural Networks",
+      "title": "The Essential Main Ideas of Neural Networks",
+      "video_url": "https://www.youtube.com/watch?v=CqOfi41LfDw",
+      "youtube_url": "https://www.youtube.com/watch?v=CqOfi41LfDw",
+      "description": "Neural Networks are one of the most popular Machine Learning algorithms, but they are also one of the most poorly understood.",
+      "is_active": true,
       "week_number": 1,
-      "tier_required": "foundational"
+      "tier_required": "foundational",
+      "sort_order": 3
     },
     {
-      "title": "Python OpenAI API Crash Course - Build Your First AI App",
-      "youtube_url": "https://youtu.be/b9v1-v68vXg",
-      "description": "Learn how to set up the OpenAI API, handle authentication, and write your first Python scripts to interact with GPT models, establishing the core building blocks for AI development.",
+      "video_title": "Learn RAG From Scratch \u2013 Python AI Tutorial from a LangChain Engineer",
+      "title": "Learn RAG From Scratch \u2013 Python AI Tutorial from a LangChain Engineer",
+      "video_url": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
+      "youtube_url": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
+      "description": "Learn how to implement RAG (Retrieval Augmented Generation) from scratch, straight from a LangChain software engineer.",
+      "is_active": true,
       "week_number": 2,
-      "tier_required": "foundational"
+      "tier_required": "foundational",
+      "sort_order": 0
     },
     {
-      "title": "Build a RAG App in 15 Minutes (LangChain, OpenAI, ChromaDB)",
-      "youtube_url": "https://youtu.be/LhnCsygAvzY",
-      "description": "A highly practical, step-by-step tutorial on building a Retrieval-Augmented Generation (RAG) system to query your private PDF documents using LangChain and a vector database.",
+      "video_title": "How to use BGE Embeddings for LangChain and RAG",
+      "title": "How to use BGE Embeddings for LangChain and RAG",
+      "video_url": "https://www.youtube.com/watch?v=sWRvSG7vL4g",
+      "youtube_url": "https://www.youtube.com/watch?v=sWRvSG7vL4g",
+      "description": "BGE Embeddings for LangChain and RAG Colab: https://drp.li/dHHm2 For more tutorials on using LLMs and building Agents, ...",
+      "is_active": true,
       "week_number": 2,
-      "tier_required": "foundational"
+      "tier_required": "foundational",
+      "sort_order": 1
     },
     {
-      "title": "How to Build an AI Chatbot Web App with Streamlit",
-      "youtube_url": "https://youtu.be/39ZgOIdg-g0",
-      "description": "Discover how to quickly wrap your Python AI backend with a polished, interactive web-based chat interface using Streamlit, making your application user-friendly.",
+      "video_title": "Chat with Multiple PDFs | LangChain App Tutorial in Python (Free LLMs and Embeddings)",
+      "title": "Chat with Multiple PDFs | LangChain App Tutorial in Python (Free LLMs and Embeddings)",
+      "video_url": "https://www.youtube.com/watch?v=dXxQ0LR-3Hg",
+      "youtube_url": "https://www.youtube.com/watch?v=dXxQ0LR-3Hg",
+      "description": "In this video you will learn to create a Langchain App to chat with multiple PDF files using the ChatGPT API and Huggingface ...",
+      "is_active": true,
       "week_number": 2,
-      "tier_required": "foundational"
+      "tier_required": "foundational",
+      "sort_order": 2
     },
     {
-      "title": "Build Multi-Agent AI Systems with CrewAI",
-      "youtube_url": "https://youtu.be/MVP28XUyeFc",
-      "description": "Step up your AI engineering skills by learning how to design, program, and run autonomous multi-agent teams that collaborate on complex tasks using the CrewAI framework.",
+      "video_title": "Boost Your Next.js Project with OpenAI: Step-by-Step Tutorial for Beginners",
+      "title": "Boost Your Next.js Project with OpenAI: Step-by-Step Tutorial for Beginners",
+      "video_url": "https://www.youtube.com/watch?v=2xwv4T552lM",
+      "youtube_url": "https://www.youtube.com/watch?v=2xwv4T552lM",
+      "description": "Only took me a few minutes to figure out how to incorporate AI into Next.js! Create a Star Wars Trivia App with ChatGPT ...",
+      "is_active": true,
       "week_number": 2,
-      "tier_required": "advanced"
+      "tier_required": "foundational",
+      "sort_order": 3
     },
     {
-      "title": "What are AI Agents?",
-      "youtube_url": "https://youtu.be/F8NKVhk0Kf4",
-      "description": "A clear, foundational breakdown by IBM Technology of what AI agents are, how they reason, make decisions, use tools, and operate autonomously to accomplish complex tasks.",
+      "video_title": "[1hr Talk] Intro to Large Language Models",
+      "title": "[1hr Talk] Intro to Large Language Models",
+      "video_url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+      "youtube_url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+      "description": "This is a 1 hour general-audience introduction to Large Language Models: the core technical component behind systems like ...",
+      "is_active": true,
       "week_number": 3,
-      "tier_required": "foundational"
+      "tier_required": "foundational",
+      "sort_order": 0
     },
     {
-      "title": "Andrew Ng: AI Agentic Workflows",
-      "youtube_url": "https://youtu.be/sal78ac_Of4",
-      "description": "Renowned AI pioneer Andrew Ng explains the paradigm shift from zero-shot prompting to agentic workflows, detailing key patterns like reflection, tool use, planning, and multi-agent collaboration.",
+      "video_title": "crewAI Crash Course For Beginners-How To Create Multi AI Agent For Complex Usecases",
+      "title": "crewAI Crash Course For Beginners-How To Create Multi AI Agent For Complex Usecases",
+      "video_url": "https://www.youtube.com/watch?v=UV81LAb3x2g",
+      "youtube_url": "https://www.youtube.com/watch?v=UV81LAb3x2g",
+      "description": "CrewAI tools empower agents with capabilities ranging from web searching and data analysis to collaboration and delegating ...",
+      "is_active": true,
       "week_number": 3,
-      "tier_required": "intermediate"
+      "tier_required": "foundational",
+      "sort_order": 1
     },
     {
-      "title": "Introduction to LangGraph: Building Multi-Agent Architectures",
-      "youtube_url": "https://youtu.be/R8Z0mshbH4U",
-      "description": "An advanced look at building stateful, multi-agent runtimes with LangGraph, showing how to coordinate multiple specialized agents in a cyclic graph structure.",
+      "video_title": "LangChain vs LangGraph: A Tale of Two Frameworks",
+      "title": "LangChain vs LangGraph: A Tale of Two Frameworks",
+      "video_url": "https://www.youtube.com/watch?v=qAF1NjEVHhY",
+      "youtube_url": "https://www.youtube.com/watch?v=qAF1NjEVHhY",
+      "description": "Want to learn more about AI agents and assistants? Register for Virtual Agents Day here \u2192 https://ibm.biz/BdaAVa Download the ...",
+      "is_active": true,
       "week_number": 3,
-      "tier_required": "advanced"
+      "tier_required": "foundational",
+      "sort_order": 2
     },
     {
-      "title": "CrewAI Tutorial: Orchestrating Multi-Agent Systems",
-      "youtube_url": "https://youtu.be/n3v_W9R63Y4",
-      "description": "A hands-on guide on how to program and orchestrate role-playing autonomous AI agents using the CrewAI framework to automate complex multi-step processes.",
+      "video_title": "How Claude&#39;s Design Agents Work",
+      "title": "How Claude&#39;s Design Agents Work",
+      "video_url": "https://www.youtube.com/watch?v=V-djAkt0t-M",
+      "youtube_url": "https://www.youtube.com/watch?v=V-djAkt0t-M",
+      "description": "In this video, I look at how Claude's Design Agents system actually works and some of the key components that are in it that you ...",
+      "is_active": true,
       "week_number": 3,
-      "tier_required": "intermediate"
+      "tier_required": "foundational",
+      "sort_order": 3
     },
     {
-      "title": "How to Build, Deploy, and Launch a SaaS",
-      "youtube_url": "https://youtu.be/8mS_WpG65vM",
-      "description": "A comprehensive walkthrough on taking a software product from local development to production deployment and launching it to your first users.",
+      "video_title": "Production-Grade AI Project Tutorial \u2013 Build &amp; Deploy",
+      "title": "Production-Grade AI Project Tutorial \u2013 Build &amp; Deploy",
+      "video_url": "https://www.youtube.com/watch?v=mvleESOUTRw",
+      "youtube_url": "https://www.youtube.com/watch?v=mvleESOUTRw",
+      "description": "This course will teach you to build a powerful, enterprise-grade AI system that prepares high-quality training data for tasks like ...",
+      "is_active": true,
       "week_number": 4,
-      "tier_required": "foundational"
+      "tier_required": "foundational",
+      "sort_order": 0
     },
     {
-      "title": "SaaS Pricing Models: How to Price Your Software Product",
-      "youtube_url": "https://youtu.be/jx8fC9G8KQA",
-      "description": "An in-depth guide on choosing the right monetization strategy and pricing tier structure for your application to maximize conversion and revenue.",
+      "video_title": "Implement Stripe Payments in Your Web App (Full Step by Step Build with AI &amp; Cursor)",
+      "title": "Implement Stripe Payments in Your Web App (Full Step by Step Build with AI &amp; Cursor)",
+      "video_url": "https://www.youtube.com/watch?v=oFffd6Li7S8",
+      "youtube_url": "https://www.youtube.com/watch?v=oFffd6Li7S8",
+      "description": "Transform a free tool into a monetized SaaS! In this episode, I integrate Stripe payments into our thumbnail generator, adding ...",
+      "is_active": true,
       "week_number": 4,
-      "tier_required": "foundational"
+      "tier_required": "foundational",
+      "sort_order": 1
     },
     {
-      "title": "How to Deploy a Full Stack Web App (Node, React, Postgres)",
-      "youtube_url": "https://youtu.be/MsnQ5uepIaE",
-      "description": "Learn how to deploy your frontend, backend, and database using modern cloud services like Render, Vercel, and Supabase.",
+      "video_title": "How AI is breaking the SaaS business model...",
+      "title": "How AI is breaking the SaaS business model...",
+      "video_url": "https://www.youtube.com/watch?v=cxcb55zr2Q8",
+      "youtube_url": "https://www.youtube.com/watch?v=cxcb55zr2Q8",
+      "description": "Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code FIRESHIP to get one month of their Build plan for $5 ...",
+      "is_active": true,
       "week_number": 4,
-      "tier_required": "foundational"
-    },
-    {
-      "title": "Understanding Cloud Deployment & CI/CD Pipelines",
-      "youtube_url": "https://youtu.be/scEDHsr3APg",
-      "description": "A beginner-friendly guide to continuous integration and continuous deployment (CI/CD), explaining how to automate your software releases.",
-      "week_number": 4,
-      "tier_required": "foundational"
+      "tier_required": "foundational",
+      "sort_order": 3
     }
   ]
 }
