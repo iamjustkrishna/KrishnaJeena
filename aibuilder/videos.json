@@ -23,17 +23,6 @@
       "sort_order": 1
     },
     {
-      "video_title": "Machine Learning Fundamentals: Bias and Variance",
-      "title": "Machine Learning Fundamentals: Bias and Variance",
-      "video_url": "https://www.youtube.com/watch?v=EuBBz3bI-aA",
-      "youtube_url": "https://www.youtube.com/watch?v=EuBBz3bI-aA",
-      "description": "Bias and Variance are two fundamental concepts for Machine Learning, and their intuition is just a little different from what you ...",
-      "is_active": true,
-      "week_number": 1,
-      "tier_required": "foundational",
-      "sort_order": 2
-    },
-    {
       "video_title": "Machine Learning for Everybody \u2013 Full Course",
       "title": "Machine Learning for Everybody \u2013 Full Course",
       "video_url": "https://www.youtube.com/watch?v=i_LwzRVP7bg",
@@ -42,40 +31,29 @@
       "is_active": true,
       "week_number": 1,
       "tier_required": "foundational",
+      "sort_order": 2
+    },
+    {
+      "video_title": "What Is Artificial Intelligence? Crash Course AI #1",
+      "title": "What Is Artificial Intelligence? Crash Course AI #1",
+      "video_url": "https://www.youtube.com/watch?v=a0_lo_GDcFw",
+      "youtube_url": "https://www.youtube.com/watch?v=a0_lo_GDcFw",
+      "description": "Artificial intelligence is everywhere and it's already making a huge impact on our lives. It's autocompleting texts on our cellphones, ...",
+      "is_active": true,
+      "week_number": 1,
+      "tier_required": "foundational",
       "sort_order": 3
     },
     {
-      "video_title": "Learn RAG From Scratch \u2013 Python AI Tutorial from a LangChain Engineer",
-      "title": "Learn RAG From Scratch \u2013 Python AI Tutorial from a LangChain Engineer",
-      "video_url": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
-      "youtube_url": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
-      "description": "Learn how to implement RAG (Retrieval Augmented Generation) from scratch, straight from a LangChain software engineer.",
+      "video_title": "A Gentle Introduction to Machine Learning",
+      "title": "A Gentle Introduction to Machine Learning",
+      "video_url": "https://www.youtube.com/watch?v=Gv9_4yMHFhI",
+      "youtube_url": "https://www.youtube.com/watch?v=Gv9_4yMHFhI",
+      "description": "Machine Learning is one of those things that is chock full of hype and confusion terminology. In this StatQuest, we cut through all ...",
       "is_active": true,
-      "week_number": 2,
+      "week_number": 1,
       "tier_required": "foundational",
-      "sort_order": 0
-    },
-    {
-      "video_title": "RAG Explained For Beginners",
-      "title": "RAG Explained For Beginners",
-      "video_url": "https://www.youtube.com/watch?v=_HQ2H_0Ayy0",
-      "youtube_url": "https://www.youtube.com/watch?v=_HQ2H_0Ayy0",
-      "description": "Try RAG Hands-On Labs for Free - https://kode.wiki/4oANO8s Learn how RAG (Retrieval Augmented Generation) solves the ...",
-      "is_active": true,
-      "week_number": 2,
-      "tier_required": "foundational",
-      "sort_order": 1
-    },
-    {
-      "video_title": "Build &amp; Deploy AI SaaS with Reoccurring Revenue (Next.js, OpenAI, Stripe, Tailwind, Vercel)",
-      "title": "Build &amp; Deploy AI SaaS with Reoccurring Revenue (Next.js, OpenAI, Stripe, Tailwind, Vercel)",
-      "video_url": "https://www.youtube.com/watch?v=r895rFUbGtE",
-      "youtube_url": "https://www.youtube.com/watch?v=r895rFUbGtE",
-      "description": "Learn how to build and deploy a SaaS using NextJS 13.4, DrizzleORM, OpenAI, Stripe, TypeScript, Tailwind, and Vercel. You will ...",
-      "is_active": true,
-      "week_number": 2,
-      "tier_required": "foundational",
-      "sort_order": 2
+      "sort_order": 4
     },
     {
       "video_title": "LangChain Explained in 10 Minutes (Components Breakdown + Build Your First AI Chatbot)",
@@ -86,29 +64,51 @@
       "is_active": true,
       "week_number": 2,
       "tier_required": "foundational",
+      "sort_order": 0
+    },
+    {
+      "video_title": "RAG Project: Build an AI Onboarding Chatbot with Streamlit, LangChain, and ChromaDB",
+      "title": "RAG Project: Build an AI Onboarding Chatbot with Streamlit, LangChain, and ChromaDB",
+      "video_url": "https://www.youtube.com/watch?v=WUUujm1MRQg",
+      "youtube_url": "https://www.youtube.com/watch?v=WUUujm1MRQg",
+      "description": "In this comprehensive video, you'll learn how to build a fully functional AI-powered onboarding chatbot tailored for new employees ...",
+      "is_active": true,
+      "week_number": 2,
+      "tier_required": "foundational",
+      "sort_order": 1
+    },
+    {
+      "video_title": "Python RAG Tutorial (with Local LLMs): AI For Your PDFs",
+      "title": "Python RAG Tutorial (with Local LLMs): AI For Your PDFs",
+      "video_url": "https://www.youtube.com/watch?v=2TJxpyO3ei4",
+      "youtube_url": "https://www.youtube.com/watch?v=2TJxpyO3ei4",
+      "description": "Learn how to build a RAG (Retrieval Augmented Generation) app in Python that can let you query/chat with your PDFs using ...",
+      "is_active": true,
+      "week_number": 2,
+      "tier_required": "foundational",
+      "sort_order": 2
+    },
+    {
+      "video_title": "The LangChain Cookbook - Beginner Guide To 7 Essential Concepts",
+      "title": "The LangChain Cookbook - Beginner Guide To 7 Essential Concepts",
+      "video_url": "https://www.youtube.com/watch?v=2xxziIWmaSA",
+      "youtube_url": "https://www.youtube.com/watch?v=2xxziIWmaSA",
+      "description": "Twitter: https://twitter.com/GregKamradt Newsletter: https://mail.gregkamradt.com/signup Cookbook Part 2: ...",
+      "is_active": true,
+      "week_number": 2,
+      "tier_required": "foundational",
       "sort_order": 3
     },
     {
-      "video_title": "How to Build a Podcast Summarization Web APP in Python and Streamlit",
-      "title": "How to Build a Podcast Summarization Web APP in Python and Streamlit",
-      "video_url": "https://www.youtube.com/watch?v=jTNNXxuZmQE",
-      "youtube_url": "https://www.youtube.com/watch?v=jTNNXxuZmQE",
-      "description": "In this tutorial, we will build a web app using Streamlit that summarizes podcast episodes into chapters. Get the code here: ...",
+      "video_title": "[1hr Talk] Intro to Large Language Models",
+      "title": "[1hr Talk] Intro to Large Language Models",
+      "video_url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+      "youtube_url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+      "description": "This is a 1 hour general-audience introduction to Large Language Models: the core technical component behind systems like ...",
       "is_active": true,
       "week_number": 2,
       "tier_required": "foundational",
       "sort_order": 4
-    },
-    {
-      "video_title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
-      "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
-      "video_url": "https://www.youtube.com/watch?v=96jN2OCOfLs",
-      "youtube_url": "https://www.youtube.com/watch?v=96jN2OCOfLs",
-      "description": "Andrej Karpathy (co-founder of OpenAI, former head of AI at Tesla, and now founder of Eureka Labs) talks with Sequoia partner ...",
-      "is_active": true,
-      "week_number": 3,
-      "tier_required": "foundational",
-      "sort_order": 0
     },
     {
       "video_title": "Learn to build effective Agentic AI systems with Andrew Ng",
@@ -119,62 +119,51 @@
       "is_active": true,
       "week_number": 3,
       "tier_required": "foundational",
-      "sort_order": 1
-    },
-    {
-      "video_title": "LangGraph Complete Course for Beginners \u2013 Complex AI Agents with Python",
-      "title": "LangGraph Complete Course for Beginners \u2013 Complex AI Agents with Python",
-      "video_url": "https://www.youtube.com/watch?v=jGg_1h0qzaM",
-      "youtube_url": "https://www.youtube.com/watch?v=jGg_1h0qzaM",
-      "description": "Welcome to this video course on LangGraph, the powerful Python library for building advanced conversational AI workflows.",
-      "is_active": true,
-      "week_number": 3,
-      "tier_required": "foundational",
-      "sort_order": 2
-    },
-    {
-      "video_title": "Python Advanced AI Agent Tutorial - LlamaIndex, Ollama and Multi-LLM!",
-      "title": "Python Advanced AI Agent Tutorial - LlamaIndex, Ollama and Multi-LLM!",
-      "video_url": "https://www.youtube.com/watch?v=JLmI0GJuGlY",
-      "youtube_url": "https://www.youtube.com/watch?v=JLmI0GJuGlY",
-      "description": "Interested in AI development? Then you are in the right place! Today I'm going to be showing you how to develop an advanced AI ...",
-      "is_active": true,
-      "week_number": 3,
-      "tier_required": "foundational",
-      "sort_order": 4
-    },
-    {
-      "video_title": "MLOps Pipeline with Python, AWS, Docker \u2013 YouTube Viewer Sentiment",
-      "title": "MLOps Pipeline with Python, AWS, Docker \u2013 YouTube Viewer Sentiment",
-      "video_url": "https://www.youtube.com/watch?v=gwNPV882tkc",
-      "youtube_url": "https://www.youtube.com/watch?v=gwNPV882tkc",
-      "description": "This comprehensive course teaches you to build an end-to-end MLOps pipeline that analyzes YouTube sentiment in real-time ...",
-      "is_active": true,
-      "week_number": 4,
-      "tier_required": "foundational",
       "sort_order": 0
     },
     {
-      "video_title": "Build and Deploy a SaaS AI Agent Platform | Next.js 15, React, Better Auth, Polar | Full Course 2025",
-      "title": "Build and Deploy a SaaS AI Agent Platform | Next.js 15, React, Better Auth, Polar | Full Course 2025",
-      "video_url": "https://www.youtube.com/watch?v=xEDCEmqyvC8",
-      "youtube_url": "https://www.youtube.com/watch?v=xEDCEmqyvC8",
-      "description": "Source Code: https://cwantonio.com/meet-ai Free Assets: https://cwantonio.com/meet-assets Part 2: ...",
+      "video_title": "crewAI Crash Course For Beginners-How To Create Multi AI Agent For Complex Usecases",
+      "title": "crewAI Crash Course For Beginners-How To Create Multi AI Agent For Complex Usecases",
+      "video_url": "https://www.youtube.com/watch?v=UV81LAb3x2g",
+      "youtube_url": "https://www.youtube.com/watch?v=UV81LAb3x2g",
+      "description": "CrewAI tools empower agents with capabilities ranging from web searching and data analysis to collaboration and delegating ...",
       "is_active": true,
-      "week_number": 4,
+      "week_number": 3,
       "tier_required": "foundational",
-      "sort_order": 1
+      "sort_order": 2
     },
     {
-      "video_title": "Learn Ollama in 15 Minutes - Run LLM Models Locally for FREE",
-      "title": "Learn Ollama in 15 Minutes - Run LLM Models Locally for FREE",
-      "video_url": "https://www.youtube.com/watch?v=UtSSMs6ObqY",
-      "youtube_url": "https://www.youtube.com/watch?v=UtSSMs6ObqY",
-      "description": "Get 25% off SEO Writing using my code TWT25 \u2192 https://seowriting.ai/?utm_source=youtube&utm_medium=tech_with_tim In this ...",
+      "video_title": "You Can Learn AI Agent System Design In 19 Min | RAG, Vector Database, Evals, Function Calling",
+      "title": "You Can Learn AI Agent System Design In 19 Min | RAG, Vector Database, Evals, Function Calling",
+      "video_url": "https://www.youtube.com/watch?v=CyLYY_xb5bQ",
+      "youtube_url": "https://www.youtube.com/watch?v=CyLYY_xb5bQ",
+      "description": "Code Follow-up: https://youtu.be/ZREt9MAozho This is how I think through designing a full stack AI Agent System, with all key ...",
+      "is_active": true,
+      "week_number": 3,
+      "tier_required": "foundational",
+      "sort_order": 3
+    },
+    {
+      "video_title": "I built a startup in 31 hours (SaaS)",
+      "title": "I built a startup in 31 hours (SaaS)",
+      "video_url": "https://www.youtube.com/watch?v=JHCAMmQUgf4",
+      "youtube_url": "https://www.youtube.com/watch?v=JHCAMmQUgf4",
+      "description": "The startup is ZenVoice, a no-code tool for Stripe users to generate invoices without paying the 0.4% fee: https://zenvoice.io/ I ...",
       "is_active": true,
       "week_number": 4,
       "tier_required": "foundational",
       "sort_order": 2
+    },
+    {
+      "video_title": "#3-Deployment Of Huggingface OpenSource LLM Models In AWS Sagemakers With Endpoints",
+      "title": "#3-Deployment Of Huggingface OpenSource LLM Models In AWS Sagemakers With Endpoints",
+      "video_url": "https://www.youtube.com/watch?v=U72q95dHpRo",
+      "youtube_url": "https://www.youtube.com/watch?v=U72q95dHpRo",
+      "description": "In this video we will be deploying huggingface open source llm models in AWs Sagemaker github: ...",
+      "is_active": true,
+      "week_number": 4,
+      "tier_required": "foundational",
+      "sort_order": 3
     }
   ]
 }
