@@ -34,15 +34,26 @@
       "sort_order": 2
     },
     {
-      "video_title": "Harvard CS50\u2019s Artificial Intelligence with Python \u2013 Full University Course",
-      "title": "Harvard CS50\u2019s Artificial Intelligence with Python \u2013 Full University Course",
-      "video_url": "https://www.youtube.com/watch?v=5NgNicANyqM",
-      "youtube_url": "https://www.youtube.com/watch?v=5NgNicANyqM",
-      "description": "This course from Harvard University explores the concepts and algorithms at the foundation of modern artificial intelligence, diving ...",
+      "video_title": "A Gentle Introduction to Machine Learning",
+      "title": "A Gentle Introduction to Machine Learning",
+      "video_url": "https://www.youtube.com/watch?v=Gv9_4yMHFhI",
+      "youtube_url": "https://www.youtube.com/watch?v=Gv9_4yMHFhI",
+      "description": "Machine Learning is one of those things that is chock full of hype and confusion terminology. In this StatQuest, we cut through all ...",
       "is_active": true,
       "week_number": 1,
       "tier_required": "foundational",
       "sort_order": 3
+    },
+    {
+      "video_title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
+      "title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
+      "video_url": "https://www.youtube.com/watch?v=qYNweeDHiyU",
+      "youtube_url": "https://www.youtube.com/watch?v=qYNweeDHiyU",
+      "description": "Want to learn more about Agentic AI + Data? Register here \u2192 https://ibm.biz/BdeGLe Want to play with the technology yourself?",
+      "is_active": true,
+      "week_number": 1,
+      "tier_required": "foundational",
+      "sort_order": 4
     },
     {
       "video_title": "LangChain Crash Course for Beginners",
@@ -56,114 +67,114 @@
       "sort_order": 0
     },
     {
+      "video_title": "Chat with Multiple PDFs | LangChain App Tutorial in Python (Free LLMs and Embeddings)",
+      "title": "Chat with Multiple PDFs | LangChain App Tutorial in Python (Free LLMs and Embeddings)",
+      "video_url": "https://www.youtube.com/watch?v=dXxQ0LR-3Hg",
+      "youtube_url": "https://www.youtube.com/watch?v=dXxQ0LR-3Hg",
+      "description": "In this video you will learn to create a Langchain App to chat with multiple PDF files using the ChatGPT API and Huggingface ...",
+      "is_active": true,
+      "week_number": 2,
+      "tier_required": "foundational",
+      "sort_order": 1
+    },
+    {
+      "video_title": "Llama3 + CrewAI + Groq = Email AI Agent",
+      "title": "Llama3 + CrewAI + Groq = Email AI Agent",
+      "video_url": "https://www.youtube.com/watch?v=1D4YoAUpjlg",
+      "youtube_url": "https://www.youtube.com/watch?v=1D4YoAUpjlg",
+      "description": "In this video we combine LLama3 70B + CrewAI with the speed of running on Groq to make an AI Agent for replying to emails ...",
+      "is_active": true,
+      "week_number": 2,
+      "tier_required": "foundational",
+      "sort_order": 2
+    },
+    {
+      "video_title": "If I Wanted to Build an AI SaaS in 2026, I\u2019d Do This",
+      "title": "If I Wanted to Build an AI SaaS in 2026, I\u2019d Do This",
+      "video_url": "https://www.youtube.com/watch?v=guzQVciWQck",
+      "youtube_url": "https://www.youtube.com/watch?v=guzQVciWQck",
+      "description": "Want to start freelancing? Let me help: https://go.datalumina.com/P3ISUfG Want to learn real AI Engineering? Go here: ...",
+      "is_active": true,
+      "week_number": 2,
+      "tier_required": "foundational",
+      "sort_order": 3
+    },
+    {
+      "video_title": "OpenAI Assistants API \u2013 Course for Beginners",
+      "title": "OpenAI Assistants API \u2013 Course for Beginners",
+      "video_url": "https://www.youtube.com/watch?v=qHPonmSX4Ms",
+      "youtube_url": "https://www.youtube.com/watch?v=qHPonmSX4Ms",
+      "description": "Learn how to use the OpenAI's Assistants API to build powerful AI assistants. In this course, we'll explore how to leverage the ...",
+      "is_active": true,
+      "week_number": 2,
+      "tier_required": "foundational",
+      "sort_order": 4
+    },
+    {
+      "video_title": "AI Agents For Beginners \u2013 OpenClaw Case Study",
+      "title": "AI Agents For Beginners \u2013 OpenClaw Case Study",
+      "video_url": "https://www.youtube.com/watch?v=AZDSpS5v57w",
+      "youtube_url": "https://www.youtube.com/watch?v=AZDSpS5v57w",
+      "description": "AI can feel overwhelming, but this hands-on course makes it practical, approachable, and fun. You will start with AI fundamentals ...",
+      "is_active": true,
+      "week_number": 3,
+      "tier_required": "foundational",
+      "sort_order": 0
+    },
+    {
+      "video_title": "Building Effective Agents with LangGraph",
+      "title": "Building Effective Agents with LangGraph",
+      "video_url": "https://www.youtube.com/watch?v=aHCDrAbH_go",
+      "youtube_url": "https://www.youtube.com/watch?v=aHCDrAbH_go",
+      "description": "Anthropic's recent blog post on \"Building Effective Agents\" lays out the difference between \"agents\" and \"workflows\", and presents ...",
+      "is_active": true,
+      "week_number": 3,
+      "tier_required": "foundational",
+      "sort_order": 1
+    },
+    {
+      "video_title": "Agent Development Kit (ADK) Masterclass: Build AI Agents &amp; Automate Workflows (Beginner to Pro)",
+      "title": "Agent Development Kit (ADK) Masterclass: Build AI Agents &amp; Automate Workflows (Beginner to Pro)",
+      "video_url": "https://www.youtube.com/watch?v=P4VFL9nIaIA",
+      "youtube_url": "https://www.youtube.com/watch?v=P4VFL9nIaIA",
+      "description": "Pre-order Shipkit.ai - AI dev toolkit for AI-driven development: templates for chat, RAG, and ADK agents, a 14-module course, and ...",
+      "is_active": true,
+      "week_number": 3,
+      "tier_required": "foundational",
+      "sort_order": 2
+    },
+    {
+      "video_title": "AI Update 2: text to audio, prompt marketplace, build llm powered apps and more",
+      "title": "AI Update 2: text to audio, prompt marketplace, build llm powered apps and more",
+      "video_url": "https://www.youtube.com/watch?v=Z5e3_hIJIiY",
+      "youtube_url": "https://www.youtube.com/watch?v=Z5e3_hIJIiY",
+      "description": "AI Update 2: text to audio, prompt marketplace, build llm powered apps and more. Patreon for code files and blog: ...",
+      "is_active": true,
+      "week_number": 3,
+      "tier_required": "foundational",
+      "sort_order": 3
+    },
+    {
+      "video_title": "Production-Grade AI Project Tutorial \u2013 Build &amp; Deploy",
+      "title": "Production-Grade AI Project Tutorial \u2013 Build &amp; Deploy",
+      "video_url": "https://www.youtube.com/watch?v=mvleESOUTRw",
+      "youtube_url": "https://www.youtube.com/watch?v=mvleESOUTRw",
+      "description": "This course will teach you to build a powerful, enterprise-grade AI system that prepares high-quality training data for tasks like ...",
+      "is_active": true,
+      "week_number": 4,
+      "tier_required": "foundational",
+      "sort_order": 0
+    },
+    {
       "video_title": "SaaS App Full Course 2026 | Launch Your SaaS in Under 7 Days with Next JS, Supabase &amp; Payments",
       "title": "SaaS App Full Course 2026 | Launch Your SaaS in Under 7 Days with Next JS, Supabase &amp; Payments",
       "video_url": "https://www.youtube.com/watch?v=XUkNR-JfHwo",
       "youtube_url": "https://www.youtube.com/watch?v=XUkNR-JfHwo",
       "description": "Build an LMS SaaS app from scratch featuring user authentication, subscriptions, and payments using Next.js, Supabase & Stripe!",
       "is_active": true,
-      "week_number": 2,
-      "tier_required": "foundational",
-      "sort_order": 1
-    },
-    {
-      "video_title": "Learn RAG From Scratch \u2013 Python AI Tutorial from a LangChain Engineer",
-      "title": "Learn RAG From Scratch \u2013 Python AI Tutorial from a LangChain Engineer",
-      "video_url": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
-      "youtube_url": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
-      "description": "Learn how to implement RAG (Retrieval Augmented Generation) from scratch, straight from a LangChain software engineer.",
-      "is_active": true,
-      "week_number": 2,
-      "tier_required": "foundational",
-      "sort_order": 2
-    },
-    {
-      "video_title": "Crew AI Tutorial | Build Multi AI Agents",
-      "title": "Crew AI Tutorial | Build Multi AI Agents",
-      "video_url": "https://www.youtube.com/watch?v=K2UAE1OlC8s",
-      "youtube_url": "https://www.youtube.com/watch?v=K2UAE1OlC8s",
-      "description": "A tutorial on how to build team of AI agents with crew ai. Crew AI docs: https://docs.crewai.com/ Code: ...",
-      "is_active": true,
-      "week_number": 2,
-      "tier_required": "foundational",
-      "sort_order": 3
-    },
-    {
-      "video_title": "Streamlit: The Fastest Way To Build Python Apps?",
-      "title": "Streamlit: The Fastest Way To Build Python Apps?",
-      "video_url": "https://www.youtube.com/watch?v=D0D4Pa22iG0",
-      "youtube_url": "https://www.youtube.com/watch?v=D0D4Pa22iG0",
-      "description": "Learn how to build a Python Streamlit app in just 12 minutes! Streamlit turns data scripts into shareable web apps in minutes.",
-      "is_active": true,
-      "week_number": 2,
-      "tier_required": "foundational",
-      "sort_order": 4
-    },
-    {
-      "video_title": "Learn to build effective Agentic AI systems with Andrew Ng",
-      "title": "Learn to build effective Agentic AI systems with Andrew Ng",
-      "video_url": "https://www.youtube.com/watch?v=w7vqXL4PWEE",
-      "youtube_url": "https://www.youtube.com/watch?v=w7vqXL4PWEE",
-      "description": "Learn more: https://bit.ly/4mVUPyF Building effective Agentic AI systems is one of the most valuable skills in AI today. Introducing ...",
-      "is_active": true,
-      "week_number": 3,
-      "tier_required": "foundational",
-      "sort_order": 0
-    },
-    {
-      "video_title": "LangGraph Complete Course for Beginners \u2013 Complex AI Agents with Python",
-      "title": "LangGraph Complete Course for Beginners \u2013 Complex AI Agents with Python",
-      "video_url": "https://www.youtube.com/watch?v=jGg_1h0qzaM",
-      "youtube_url": "https://www.youtube.com/watch?v=jGg_1h0qzaM",
-      "description": "Welcome to this video course on LangGraph, the powerful Python library for building advanced conversational AI workflows.",
-      "is_active": true,
-      "week_number": 3,
-      "tier_required": "foundational",
-      "sort_order": 1
-    },
-    {
-      "video_title": "How to Build an Agent with the OpenAI Agents SDK",
-      "title": "How to Build an Agent with the OpenAI Agents SDK",
-      "video_url": "https://www.youtube.com/watch?v=0Z7u6DTDZ8o",
-      "youtube_url": "https://www.youtube.com/watch?v=0Z7u6DTDZ8o",
-      "description": "In this video, I take a deeper dive look at the OpenAI Agents SDK and how it can be used to build a fast food agent. Colab: ...",
-      "is_active": true,
-      "week_number": 3,
-      "tier_required": "foundational",
-      "sort_order": 2
-    },
-    {
-      "video_title": "Python: Automating a Marketing Team with AI Agents | Planning and Implementing CrewAI",
-      "title": "Python: Automating a Marketing Team with AI Agents | Planning and Implementing CrewAI",
-      "video_url": "https://www.youtube.com/watch?v=LHXujQ19Euo",
-      "youtube_url": "https://www.youtube.com/watch?v=LHXujQ19Euo",
-      "description": "In this video you will learn how to plan and implement teams of AI autonomous agents using CrewAI with an example of the ...",
-      "is_active": true,
-      "week_number": 3,
-      "tier_required": "foundational",
-      "sort_order": 3
-    },
-    {
-      "video_title": "Understanding ReACT with LangChain",
-      "title": "Understanding ReACT with LangChain",
-      "video_url": "https://www.youtube.com/watch?v=Eug2clsLtFs",
-      "youtube_url": "https://www.youtube.com/watch?v=Eug2clsLtFs",
-      "description": "Colab : https://drp.li/aSOiF For more tutorials on using LLMs and building Agents, check out my Patreon: Patreon: ...",
-      "is_active": true,
-      "week_number": 3,
-      "tier_required": "foundational",
-      "sort_order": 4
-    },
-    {
-      "video_title": "Build and Deploy a Full Stack AI SaaS Platform with Next js, TypeScript, Stripe",
-      "title": "Build and Deploy a Full Stack AI SaaS Platform with Next js, TypeScript, Stripe",
-      "video_url": "https://www.youtube.com/watch?v=Ahwoks_dawU",
-      "youtube_url": "https://www.youtube.com/watch?v=Ahwoks_dawU",
-      "description": "Build a REAL Software-as-a-Service app with AI features and a payments and credits system that you might even turn into a side ...",
-      "is_active": true,
       "week_number": 4,
       "tier_required": "foundational",
-      "sort_order": 0
+      "sort_order": 1
     },
     {
       "video_title": "Startup Business Models and Pricing | Startup School",
@@ -174,40 +185,18 @@
       "is_active": true,
       "week_number": 4,
       "tier_required": "foundational",
-      "sort_order": 1
-    },
-    {
-      "video_title": "Deploy ML models with FastAPI, Docker, and Heroku | Tutorial",
-      "title": "Deploy ML models with FastAPI, Docker, and Heroku | Tutorial",
-      "video_url": "https://www.youtube.com/watch?v=h5wLuVDr0oc",
-      "youtube_url": "https://www.youtube.com/watch?v=h5wLuVDr0oc",
-      "description": "In this Tutorial you'll learn how to deploy Machine Learning models with FastAPI, Docker, and Heroku.",
-      "is_active": true,
-      "week_number": 4,
-      "tier_required": "foundational",
       "sort_order": 2
     },
     {
-      "video_title": "How to Systematically Setup LLM Evals (Metrics, Unit Tests, LLM-as-a-Judge)",
-      "title": "How to Systematically Setup LLM Evals (Metrics, Unit Tests, LLM-as-a-Judge)",
-      "video_url": "https://www.youtube.com/watch?v=a3SMraZWNNs",
-      "youtube_url": "https://www.youtube.com/watch?v=a3SMraZWNNs",
-      "description": "Want to learn real AI Engineering? Go here: https://go.datalumina.com/iIO93Ps Want to start freelancing? Let me help: ...",
+      "video_title": "The Ultimate FastAPI + React Full Stack Project (Deploy This and You\u2019re Set)",
+      "title": "The Ultimate FastAPI + React Full Stack Project (Deploy This and You\u2019re Set)",
+      "video_url": "https://www.youtube.com/watch?v=_1P0Uqk50Ps",
+      "youtube_url": "https://www.youtube.com/watch?v=_1P0Uqk50Ps",
+      "description": "In this video, you'll learn how to build a full stack application using FastAPI in Python and JavaScript and React. Now I'll cover ...",
       "is_active": true,
       "week_number": 4,
       "tier_required": "foundational",
       "sort_order": 3
-    },
-    {
-      "video_title": "FastAPI, Flask or Django - Which Should You Use?",
-      "title": "FastAPI, Flask or Django - Which Should You Use?",
-      "video_url": "https://www.youtube.com/watch?v=cNlJCQHSmbE",
-      "youtube_url": "https://www.youtube.com/watch?v=cNlJCQHSmbE",
-      "description": "Get started using professional JetBrains IDEs for free today: https://jb.gg/Get-JetBrains-IDEs FastAPI, Flask or Django? This is the ...",
-      "is_active": true,
-      "week_number": 4,
-      "tier_required": "foundational",
-      "sort_order": 4
     }
   ]
 }
