@@ -23,28 +23,6 @@
       "sort_order": 1
     },
     {
-      "video_title": "The Essential Main Ideas of Neural Networks",
-      "title": "The Essential Main Ideas of Neural Networks",
-      "video_url": "https://www.youtube.com/watch?v=CqOfi41LfDw",
-      "youtube_url": "https://www.youtube.com/watch?v=CqOfi41LfDw",
-      "description": "Neural Networks are one of the most popular Machine Learning algorithms, but they are also one of the most poorly understood.",
-      "is_active": true,
-      "week_number": 1,
-      "tier_required": "foundational",
-      "sort_order": 2
-    },
-    {
-      "video_title": "Machine Learning &amp; Artificial Intelligence: Crash Course Computer Science #34",
-      "title": "Machine Learning &amp; Artificial Intelligence: Crash Course Computer Science #34",
-      "video_url": "https://www.youtube.com/watch?v=z-EtmaFJieY",
-      "youtube_url": "https://www.youtube.com/watch?v=z-EtmaFJieY",
-      "description": "So we've talked a lot in this series about how computers fetch and display data, but how do they make decisions on this data?",
-      "is_active": true,
-      "week_number": 1,
-      "tier_required": "foundational",
-      "sort_order": 3
-    },
-    {
       "video_title": "Machine Learning for Everybody \u2013 Full Course",
       "title": "Machine Learning for Everybody \u2013 Full Course",
       "video_url": "https://www.youtube.com/watch?v=i_LwzRVP7bg",
@@ -53,51 +31,29 @@
       "is_active": true,
       "week_number": 1,
       "tier_required": "foundational",
-      "sort_order": 4
-    },
-    {
-      "video_title": "LangChain Crash Course for Beginners",
-      "title": "LangChain Crash Course for Beginners",
-      "video_url": "https://www.youtube.com/watch?v=lG7Uxts9SXs",
-      "youtube_url": "https://www.youtube.com/watch?v=lG7Uxts9SXs",
-      "description": "Learn how to use LangChain in this crash course for beginners. LangChain is a framework designed to simplify the creation of ...",
-      "is_active": true,
-      "week_number": 2,
-      "tier_required": "foundational",
-      "sort_order": 0
-    },
-    {
-      "video_title": "Deploy Your AI Streamlit App for FREE | Step-by-Step (Heroku Alternative)",
-      "title": "Deploy Your AI Streamlit App for FREE | Step-by-Step (Heroku Alternative)",
-      "video_url": "https://www.youtube.com/watch?v=74c3KaAXPvk",
-      "youtube_url": "https://www.youtube.com/watch?v=74c3KaAXPvk",
-      "description": "This is a step-by-step tutorial on how to deploy a Streamlit Python Chatbot to two popular Platform-as-a-Service providers: ...",
-      "is_active": true,
-      "week_number": 2,
-      "tier_required": "foundational",
-      "sort_order": 1
-    },
-    {
-      "video_title": "Vercel AI SDK Tutorial: Build an AI 3D Product Configurator",
-      "title": "Vercel AI SDK Tutorial: Build an AI 3D Product Configurator",
-      "video_url": "https://www.youtube.com/watch?v=SogfKGaQRn4",
-      "youtube_url": "https://www.youtube.com/watch?v=SogfKGaQRn4",
-      "description": "Try Vercel's Agent Stack for your own AI apps: https://vercel.plug.dev/Z3di38W Learn how to build an AI-powered 3D product ...",
-      "is_active": true,
-      "week_number": 2,
-      "tier_required": "foundational",
       "sort_order": 2
     },
     {
-      "video_title": "AutoGen vs CrewAI vs LangGraph \u2013 Best AI Agent Framework In 2025!",
-      "title": "AutoGen vs CrewAI vs LangGraph \u2013 Best AI Agent Framework In 2025!",
-      "video_url": "https://www.youtube.com/watch?v=8HqeY5v0ohM",
-      "youtube_url": "https://www.youtube.com/watch?v=8HqeY5v0ohM",
-      "description": "Nord VPN: https://go.nordvpn.net/SH93l AutoGen vs CrewAI vs LangGraph \u2013 Best AI Agent Framework In 2025! Curious which AI ...",
+      "video_title": "What Is Artificial Intelligence? Crash Course AI #1",
+      "title": "What Is Artificial Intelligence? Crash Course AI #1",
+      "video_url": "https://www.youtube.com/watch?v=a0_lo_GDcFw",
+      "youtube_url": "https://www.youtube.com/watch?v=a0_lo_GDcFw",
+      "description": "Artificial intelligence is everywhere and it's already making a huge impact on our lives. It's autocompleting texts on our cellphones, ...",
       "is_active": true,
-      "week_number": 2,
+      "week_number": 1,
       "tier_required": "foundational",
       "sort_order": 3
+    },
+    {
+      "video_title": "The Essential Main Ideas of Neural Networks",
+      "title": "The Essential Main Ideas of Neural Networks",
+      "video_url": "https://www.youtube.com/watch?v=CqOfi41LfDw",
+      "youtube_url": "https://www.youtube.com/watch?v=CqOfi41LfDw",
+      "description": "Neural Networks are one of the most popular Machine Learning algorithms, but they are also one of the most poorly understood.",
+      "is_active": true,
+      "week_number": 1,
+      "tier_required": "foundational",
+      "sort_order": 4
     },
     {
       "video_title": "Learn RAG From Scratch \u2013 Python AI Tutorial from a LangChain Engineer",
@@ -108,7 +64,62 @@
       "is_active": true,
       "week_number": 2,
       "tier_required": "foundational",
+      "sort_order": 0
+    },
+    {
+      "video_title": "SaaS App Full Course 2026 | Launch Your SaaS in Under 7 Days with Next JS, Supabase &amp; Payments",
+      "title": "SaaS App Full Course 2026 | Launch Your SaaS in Under 7 Days with Next JS, Supabase &amp; Payments",
+      "video_url": "https://www.youtube.com/watch?v=XUkNR-JfHwo",
+      "youtube_url": "https://www.youtube.com/watch?v=XUkNR-JfHwo",
+      "description": "Build an LMS SaaS app from scratch featuring user authentication, subscriptions, and payments using Next.js, Supabase & Stripe!",
+      "is_active": true,
+      "week_number": 2,
+      "tier_required": "foundational",
+      "sort_order": 1
+    },
+    {
+      "video_title": "Chat with Multiple PDFs | LangChain App Tutorial in Python (Free LLMs and Embeddings)",
+      "title": "Chat with Multiple PDFs | LangChain App Tutorial in Python (Free LLMs and Embeddings)",
+      "video_url": "https://www.youtube.com/watch?v=dXxQ0LR-3Hg",
+      "youtube_url": "https://www.youtube.com/watch?v=dXxQ0LR-3Hg",
+      "description": "In this video you will learn to create a Langchain App to chat with multiple PDF files using the ChatGPT API and Huggingface ...",
+      "is_active": true,
+      "week_number": 2,
+      "tier_required": "foundational",
+      "sort_order": 2
+    },
+    {
+      "video_title": "LangChain Crash Course for Beginners",
+      "title": "LangChain Crash Course for Beginners",
+      "video_url": "https://www.youtube.com/watch?v=lG7Uxts9SXs",
+      "youtube_url": "https://www.youtube.com/watch?v=lG7Uxts9SXs",
+      "description": "Learn how to use LangChain in this crash course for beginners. LangChain is a framework designed to simplify the creation of ...",
+      "is_active": true,
+      "week_number": 2,
+      "tier_required": "foundational",
+      "sort_order": 3
+    },
+    {
+      "video_title": "crewAI Crash Course For Beginners-How To Create Multi AI Agent For Complex Usecases",
+      "title": "crewAI Crash Course For Beginners-How To Create Multi AI Agent For Complex Usecases",
+      "video_url": "https://www.youtube.com/watch?v=UV81LAb3x2g",
+      "youtube_url": "https://www.youtube.com/watch?v=UV81LAb3x2g",
+      "description": "CrewAI tools empower agents with capabilities ranging from web searching and data analysis to collaboration and delegating ...",
+      "is_active": true,
+      "week_number": 2,
+      "tier_required": "foundational",
       "sort_order": 4
+    },
+    {
+      "video_title": "AI agent design patterns",
+      "title": "AI agent design patterns",
+      "video_url": "https://www.youtube.com/watch?v=GDm_uH6VxPY",
+      "youtube_url": "https://www.youtube.com/watch?v=GDm_uH6VxPY",
+      "description": "Agentic Pattern lab\u2192 https://goo.gle/agenticpattern Multi-Agent Pattern blog \u2192 https://goo.gle/multiagentpattern Design agentic ...",
+      "is_active": true,
+      "week_number": 3,
+      "tier_required": "foundational",
+      "sort_order": 0
     },
     {
       "video_title": "LangGraph Complete Course for Beginners \u2013 Complex AI Agents with Python",
@@ -119,29 +130,29 @@
       "is_active": true,
       "week_number": 3,
       "tier_required": "foundational",
-      "sort_order": 0
-    },
-    {
-      "video_title": "Building Effective Agents with LangGraph",
-      "title": "Building Effective Agents with LangGraph",
-      "video_url": "https://www.youtube.com/watch?v=aHCDrAbH_go",
-      "youtube_url": "https://www.youtube.com/watch?v=aHCDrAbH_go",
-      "description": "Anthropic's recent blog post on \"Building Effective Agents\" lays out the difference between \"agents\" and \"workflows\", and presents ...",
-      "is_active": true,
-      "week_number": 3,
-      "tier_required": "foundational",
       "sort_order": 1
     },
     {
-      "video_title": "crewAI Crash Course For Beginners-How To Create Multi AI Agent For Complex Usecases",
-      "title": "crewAI Crash Course For Beginners-How To Create Multi AI Agent For Complex Usecases",
-      "video_url": "https://www.youtube.com/watch?v=UV81LAb3x2g",
-      "youtube_url": "https://www.youtube.com/watch?v=UV81LAb3x2g",
-      "description": "CrewAI tools empower agents with capabilities ranging from web searching and data analysis to collaboration and delegating ...",
+      "video_title": "How to Build Claude Agent Teams Better Than 99% of People",
+      "title": "How to Build Claude Agent Teams Better Than 99% of People",
+      "video_url": "https://www.youtube.com/watch?v=vDVSGVpB2vc",
+      "youtube_url": "https://www.youtube.com/watch?v=vDVSGVpB2vc",
+      "description": "My FREE AI OS Course: ...",
       "is_active": true,
       "week_number": 3,
       "tier_required": "foundational",
       "sort_order": 2
+    },
+    {
+      "video_title": "AutoGen Tutorial \ud83d\ude80 Create Custom AI Agents EASILY (Incredible)",
+      "title": "AutoGen Tutorial \ud83d\ude80 Create Custom AI Agents EASILY (Incredible)",
+      "video_url": "https://www.youtube.com/watch?v=vU2S6dVf79M",
+      "youtube_url": "https://www.youtube.com/watch?v=vU2S6dVf79M",
+      "description": "In this video, I show you how to use AutoGen, which allows anyone to use multi-agent LLMs to power their applications. First ...",
+      "is_active": true,
+      "week_number": 3,
+      "tier_required": "foundational",
+      "sort_order": 3
     },
     {
       "video_title": "Build an AI Agent From Scratch in Python - Tutorial for Beginners",
@@ -152,29 +163,29 @@
       "is_active": true,
       "week_number": 3,
       "tier_required": "foundational",
-      "sort_order": 3
-    },
-    {
-      "video_title": "Agentic AI Frameworks Explained: Workflows, Multi-Agent, &amp; Production",
-      "title": "Agentic AI Frameworks Explained: Workflows, Multi-Agent, &amp; Production",
-      "video_url": "https://www.youtube.com/watch?v=ZVPlLaehjLk",
-      "youtube_url": "https://www.youtube.com/watch?v=ZVPlLaehjLk",
-      "description": "Learn more about AI Agent Frameworks here \u2192 https://ibm.biz/~M1qnwGHnE Too many agentic AI frameworks and no clear ...",
-      "is_active": true,
-      "week_number": 3,
-      "tier_required": "foundational",
       "sort_order": 4
     },
     {
-      "video_title": "Build &amp; Deploy AI SaaS with Reoccurring Revenue (Next.js, OpenAI, Stripe, Tailwind, Vercel)",
-      "title": "Build &amp; Deploy AI SaaS with Reoccurring Revenue (Next.js, OpenAI, Stripe, Tailwind, Vercel)",
-      "video_url": "https://www.youtube.com/watch?v=r895rFUbGtE",
-      "youtube_url": "https://www.youtube.com/watch?v=r895rFUbGtE",
-      "description": "Learn how to build and deploy a SaaS using NextJS 13.4, DrizzleORM, OpenAI, Stripe, TypeScript, Tailwind, and Vercel. You will ...",
+      "video_title": "SaaS App Full Course 2026 | Launch Your SaaS in Under 7 Days with Next JS, Supabase &amp; Payments",
+      "title": "SaaS App Full Course 2026 | Launch Your SaaS in Under 7 Days with Next JS, Supabase &amp; Payments",
+      "video_url": "https://www.youtube.com/watch?v=XUkNR-JfHwo",
+      "youtube_url": "https://www.youtube.com/watch?v=XUkNR-JfHwo",
+      "description": "Build an LMS SaaS app from scratch featuring user authentication, subscriptions, and payments using Next.js, Supabase & Stripe!",
       "is_active": true,
       "week_number": 4,
       "tier_required": "foundational",
       "sort_order": 0
+    },
+    {
+      "video_title": "Seriously, please watch this before you start learning n8n",
+      "title": "Seriously, please watch this before you start learning n8n",
+      "video_url": "https://www.youtube.com/watch?v=ofC4OeNjDx8",
+      "youtube_url": "https://www.youtube.com/watch?v=ofC4OeNjDx8",
+      "description": "Apply for the 90-day Private Build Intensive https://theaiarchitects.com/yt/mentorship/n8n-brutal-reality Get my Free Claude ...",
+      "is_active": true,
+      "week_number": 4,
+      "tier_required": "foundational",
+      "sort_order": 1
     },
     {
       "video_title": "Learn Fast API With This ONE Project",
@@ -185,25 +196,14 @@
       "is_active": true,
       "week_number": 4,
       "tier_required": "foundational",
-      "sort_order": 1
-    },
-    {
-      "video_title": "Master 80% of n8n in 36 Minutes",
-      "title": "Master 80% of n8n in 36 Minutes",
-      "video_url": "https://www.youtube.com/watch?v=e3OV3LnrS7o",
-      "youtube_url": "https://www.youtube.com/watch?v=e3OV3LnrS7o",
-      "description": "Self host n8n with Hostinger - http://hostinger.com/futurepedian8n Use the promo code FUTUREPEDIA *Free AI Agents Cheat ...",
-      "is_active": true,
-      "week_number": 4,
-      "tier_required": "foundational",
       "sort_order": 2
     },
     {
-      "video_title": "Top 5 Most-Used Deployment Strategies",
-      "title": "Top 5 Most-Used Deployment Strategies",
-      "video_url": "https://www.youtube.com/watch?v=AWVTKBUnoIg",
-      "youtube_url": "https://www.youtube.com/watch?v=AWVTKBUnoIg",
-      "description": "Get a Free System Design PDF with 158 pages by subscribing to our weekly newsletter: https://bytebytego.ck.page/subscribe ...",
+      "video_title": "How to build SaaS applications with AI (no coding)",
+      "title": "How to build SaaS applications with AI (no coding)",
+      "video_url": "https://www.youtube.com/watch?v=aV_yI1oV5vU",
+      "youtube_url": "https://www.youtube.com/watch?v=aV_yI1oV5vU",
+      "description": "Join my community to build your first $10k AI Startup: www.skool.com/promptwarrior Or search \u201cPrompt Warrior Skool\u201d #cursor #ai ...",
       "is_active": true,
       "week_number": 4,
       "tier_required": "foundational",
