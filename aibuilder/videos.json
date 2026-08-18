@@ -23,6 +23,17 @@
       "sort_order": 1
     },
     {
+      "video_title": "Machine Learning for Everybody \u2013 Full Course",
+      "title": "Machine Learning for Everybody \u2013 Full Course",
+      "video_url": "https://www.youtube.com/watch?v=i_LwzRVP7bg",
+      "youtube_url": "https://www.youtube.com/watch?v=i_LwzRVP7bg",
+      "description": "Learn Machine Learning in a way that is accessible to absolute beginners. You will learn the basics of Machine Learning and how ...",
+      "is_active": true,
+      "week_number": 1,
+      "tier_required": "foundational",
+      "sort_order": 2
+    },
+    {
       "video_title": "Harvard CS50\u2019s Artificial Intelligence with Python \u2013 Full University Course",
       "title": "Harvard CS50\u2019s Artificial Intelligence with Python \u2013 Full University Course",
       "video_url": "https://www.youtube.com/watch?v=5NgNicANyqM",
@@ -31,29 +42,18 @@
       "is_active": true,
       "week_number": 1,
       "tier_required": "foundational",
-      "sort_order": 2
-    },
-    {
-      "video_title": "A Gentle Introduction to Machine Learning",
-      "title": "A Gentle Introduction to Machine Learning",
-      "video_url": "https://www.youtube.com/watch?v=Gv9_4yMHFhI",
-      "youtube_url": "https://www.youtube.com/watch?v=Gv9_4yMHFhI",
-      "description": "Machine Learning is one of those things that is chock full of hype and confusion terminology. In this StatQuest, we cut through all ...",
-      "is_active": true,
-      "week_number": 1,
-      "tier_required": "foundational",
       "sort_order": 3
     },
     {
-      "video_title": "AI for Everyone by Andrew Ng",
-      "title": "AI for Everyone by Andrew Ng",
-      "video_url": "https://www.youtube.com/watch?v=JPcx9qHzzgk",
-      "youtube_url": "https://www.youtube.com/watch?v=JPcx9qHzzgk",
-      "description": "Get started: https://learn.deeplearning.ai/courses/ai-for-everyone AI is not only for engineers. \u201cAI for Everyone\u201d, a non-technical ...",
+      "video_title": "Ollama Course \u2013 Build AI Apps Locally",
+      "title": "Ollama Course \u2013 Build AI Apps Locally",
+      "video_url": "https://www.youtube.com/watch?v=GWB9ApTPTv4",
+      "youtube_url": "https://www.youtube.com/watch?v=GWB9ApTPTv4",
+      "description": "Learn how to set up and use Ollama to build powerful AI applications locally. This hands-on course covers pulling and ...",
       "is_active": true,
-      "week_number": 1,
+      "week_number": 2,
       "tier_required": "foundational",
-      "sort_order": 4
+      "sort_order": 0
     },
     {
       "video_title": "LangChain Crash Course for Beginners",
@@ -64,18 +64,18 @@
       "is_active": true,
       "week_number": 2,
       "tier_required": "foundational",
-      "sort_order": 0
+      "sort_order": 1
     },
     {
-      "video_title": "Chat with Multiple PDFs | LangChain App Tutorial in Python (Free LLMs and Embeddings)",
-      "title": "Chat with Multiple PDFs | LangChain App Tutorial in Python (Free LLMs and Embeddings)",
-      "video_url": "https://www.youtube.com/watch?v=dXxQ0LR-3Hg",
-      "youtube_url": "https://www.youtube.com/watch?v=dXxQ0LR-3Hg",
-      "description": "In this video you will learn to create a Langchain App to chat with multiple PDF files using the ChatGPT API and Huggingface ...",
+      "video_title": "Learn RAG From Scratch \u2013 Python AI Tutorial from a LangChain Engineer",
+      "title": "Learn RAG From Scratch \u2013 Python AI Tutorial from a LangChain Engineer",
+      "video_url": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
+      "youtube_url": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
+      "description": "Learn how to implement RAG (Retrieval Augmented Generation) from scratch, straight from a LangChain software engineer.",
       "is_active": true,
       "week_number": 2,
       "tier_required": "foundational",
-      "sort_order": 1
+      "sort_order": 2
     },
     {
       "video_title": "Build and Deploy a Full Stack AI SaaS Platform with Next js, TypeScript, Stripe",
@@ -86,25 +86,14 @@
       "is_active": true,
       "week_number": 2,
       "tier_required": "foundational",
-      "sort_order": 2
-    },
-    {
-      "video_title": "LangGraph Complete Course for Beginners \u2013 Complex AI Agents with Python",
-      "title": "LangGraph Complete Course for Beginners \u2013 Complex AI Agents with Python",
-      "video_url": "https://www.youtube.com/watch?v=jGg_1h0qzaM",
-      "youtube_url": "https://www.youtube.com/watch?v=jGg_1h0qzaM",
-      "description": "Welcome to this video course on LangGraph, the powerful Python library for building advanced conversational AI workflows.",
-      "is_active": true,
-      "week_number": 2,
-      "tier_required": "foundational",
       "sort_order": 3
     },
     {
-      "video_title": "Ollama Course \u2013 Build AI Apps Locally",
-      "title": "Ollama Course \u2013 Build AI Apps Locally",
-      "video_url": "https://www.youtube.com/watch?v=GWB9ApTPTv4",
-      "youtube_url": "https://www.youtube.com/watch?v=GWB9ApTPTv4",
-      "description": "Learn how to set up and use Ollama to build powerful AI applications locally. This hands-on course covers pulling and ...",
+      "video_title": "LangGraph Tutorial - How to Build Advanced AI Agent Systems",
+      "title": "LangGraph Tutorial - How to Build Advanced AI Agent Systems",
+      "video_url": "https://www.youtube.com/watch?v=1w5cCXlh7JQ",
+      "youtube_url": "https://www.youtube.com/watch?v=1w5cCXlh7JQ",
+      "description": "Download PyCharm and use it for free forever with one month of Pro included: https://www.jetbrains.com/pycharm/ In this video, ...",
       "is_active": true,
       "week_number": 2,
       "tier_required": "foundational",
@@ -133,11 +122,11 @@
       "sort_order": 1
     },
     {
-      "video_title": "Build an AI Agent from Scratch in Python! (ReAct Pattern &amp; Tool Use)",
-      "title": "Build an AI Agent from Scratch in Python! (ReAct Pattern &amp; Tool Use)",
-      "video_url": "https://www.youtube.com/watch?v=oPxgSCvZuYs",
-      "youtube_url": "https://www.youtube.com/watch?v=oPxgSCvZuYs",
-      "description": "In this video, I demonstrate how to build an autonomous AI Agent using the ReAct (Reasoning + Acting) framework! Instead of ...",
+      "video_title": "LangGraph: Multi-Agent Workflows",
+      "title": "LangGraph: Multi-Agent Workflows",
+      "video_url": "https://www.youtube.com/watch?v=hvAPnpSfSGo",
+      "youtube_url": "https://www.youtube.com/watch?v=hvAPnpSfSGo",
+      "description": "LangGraph makes it easy to construct multi-agent workflows, where each agent is a node, and the edges define how they ...",
       "is_active": true,
       "week_number": 3,
       "tier_required": "foundational",
@@ -155,17 +144,6 @@
       "sort_order": 3
     },
     {
-      "video_title": "LangChain Explained in 10 Minutes (Components Breakdown + Build Your First AI Chatbot)",
-      "title": "LangChain Explained in 10 Minutes (Components Breakdown + Build Your First AI Chatbot)",
-      "video_url": "https://www.youtube.com/watch?v=xTmU8ZImUO8",
-      "youtube_url": "https://www.youtube.com/watch?v=xTmU8ZImUO8",
-      "description": "Try LangChain Hands-on Labs for Free: https://kode.wiki/462mo31 Building a company chatbot that remembers conversations, ...",
-      "is_active": true,
-      "week_number": 3,
-      "tier_required": "foundational",
-      "sort_order": 4
-    },
-    {
       "video_title": "Production-Grade AI Project Tutorial \u2013 Build &amp; Deploy",
       "title": "Production-Grade AI Project Tutorial \u2013 Build &amp; Deploy",
       "video_url": "https://www.youtube.com/watch?v=mvleESOUTRw",
@@ -177,33 +155,33 @@
       "sort_order": 0
     },
     {
-      "video_title": "Startup Business Models and Pricing | Startup School",
-      "title": "Startup Business Models and Pricing | Startup School",
-      "video_url": "https://www.youtube.com/watch?v=oWZbWzAyHAE",
-      "youtube_url": "https://www.youtube.com/watch?v=oWZbWzAyHAE",
-      "description": "YC Group Partner Aaron Epstein talks about different startup business models, how to monetize, and how to price your product.",
+      "video_title": "How I Vibe Coded a $400K/mo App with Claude Code (Full Tutorial)",
+      "title": "How I Vibe Coded a $400K/mo App with Claude Code (Full Tutorial)",
+      "video_url": "https://www.youtube.com/watch?v=hDOUzlJwM1E",
+      "youtube_url": "https://www.youtube.com/watch?v=hDOUzlJwM1E",
+      "description": "CoinSnap makes $500K a month from one feature: take a photo of a coin, get its value. I rebuilt the same thing by vibe coding with ...",
       "is_active": true,
       "week_number": 4,
       "tier_required": "foundational",
       "sort_order": 1
     },
     {
-      "video_title": "I Turned My AI App Into a Paid SaaS in One Session (Stripe MCP + Antigravity + Vercel)",
-      "title": "I Turned My AI App Into a Paid SaaS in One Session (Stripe MCP + Antigravity + Vercel)",
-      "video_url": "https://www.youtube.com/watch?v=FGOdzUKjPU8",
-      "youtube_url": "https://www.youtube.com/watch?v=FGOdzUKjPU8",
-      "description": "Part 1 was the build. Part 2 is the business model. In this video I take the AI Finance Tracker from Part 1 and turn it into a fully ...",
+      "video_title": "Large Language Model Operations (LLMOps) Explained",
+      "title": "Large Language Model Operations (LLMOps) Explained",
+      "video_url": "https://www.youtube.com/watch?v=cvPEiPt7HXo",
+      "youtube_url": "https://www.youtube.com/watch?v=cvPEiPt7HXo",
+      "description": "Try watsonx \u2192 https://ibm.biz/Bdv85u Dive deeper into LLMOps\u2192 https://ibm.biz/Bdv85J Machine learning operations (MLOps) is ...",
       "is_active": true,
       "week_number": 4,
       "tier_required": "foundational",
       "sort_order": 2
     },
     {
-      "video_title": "How to Build a Scalable RAG System for AI Apps (Full Architecture)",
-      "title": "How to Build a Scalable RAG System for AI Apps (Full Architecture)",
-      "video_url": "https://www.youtube.com/watch?v=4KiiKQ9RVvA",
-      "youtube_url": "https://www.youtube.com/watch?v=4KiiKQ9RVvA",
-      "description": "Sponsored by Databricks Neon \u2192 https://get.neon.com/bl6FZuG Large language models do not know your private company data.",
+      "video_title": "Startup Business Models and Pricing | Startup School",
+      "title": "Startup Business Models and Pricing | Startup School",
+      "video_url": "https://www.youtube.com/watch?v=oWZbWzAyHAE",
+      "youtube_url": "https://www.youtube.com/watch?v=oWZbWzAyHAE",
+      "description": "YC Group Partner Aaron Epstein talks about different startup business models, how to monetize, and how to price your product.",
       "is_active": true,
       "week_number": 4,
       "tier_required": "foundational",
