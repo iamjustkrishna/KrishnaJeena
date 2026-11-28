@@ -1,17 +1,6 @@
 {
   "videos": [
     {
-      "video_title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
-      "title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
-      "video_url": "https://www.youtube.com/watch?v=qYNweeDHiyU",
-      "youtube_url": "https://www.youtube.com/watch?v=qYNweeDHiyU",
-      "description": "Want to learn more about Agentic AI + Data? Register here \u2192 https://ibm.biz/BdeGLe Want to play with the technology yourself?",
-      "is_active": true,
-      "week_number": 1,
-      "tier_required": "foundational",
-      "sort_order": 0
-    },
-    {
       "video_title": "But what is a neural network? | Deep learning chapter 1",
       "title": "But what is a neural network? | Deep learning chapter 1",
       "video_url": "https://www.youtube.com/watch?v=aircAruvnKk",
@@ -20,7 +9,7 @@
       "is_active": true,
       "week_number": 1,
       "tier_required": "foundational",
-      "sort_order": 1
+      "sort_order": 0
     },
     {
       "video_title": "[1hr Talk] Intro to Large Language Models",
@@ -31,7 +20,7 @@
       "is_active": true,
       "week_number": 1,
       "tier_required": "foundational",
-      "sort_order": 2
+      "sort_order": 1
     },
     {
       "video_title": "Machine Learning Fundamentals: Bias and Variance",
@@ -39,6 +28,17 @@
       "video_url": "https://www.youtube.com/watch?v=EuBBz3bI-aA",
       "youtube_url": "https://www.youtube.com/watch?v=EuBBz3bI-aA",
       "description": "Bias and Variance are two fundamental concepts for Machine Learning, and their intuition is just a little different from what you ...",
+      "is_active": true,
+      "week_number": 1,
+      "tier_required": "foundational",
+      "sort_order": 2
+    },
+    {
+      "video_title": "Machine Learning for Everybody \u2013 Full Course",
+      "title": "Machine Learning for Everybody \u2013 Full Course",
+      "video_url": "https://www.youtube.com/watch?v=i_LwzRVP7bg",
+      "youtube_url": "https://www.youtube.com/watch?v=i_LwzRVP7bg",
+      "description": "Learn Machine Learning in a way that is accessible to absolute beginners. You will learn the basics of Machine Learning and how ...",
       "is_active": true,
       "week_number": 1,
       "tier_required": "foundational",
@@ -56,44 +56,44 @@
       "sort_order": 4
     },
     {
-      "video_title": "Agentic AI \u2013 Complete Course for Beginners",
-      "title": "Agentic AI \u2013 Complete Course for Beginners",
-      "video_url": "https://www.youtube.com/watch?v=Zy7EXDONlTY",
-      "youtube_url": "https://www.youtube.com/watch?v=Zy7EXDONlTY",
-      "description": "Learn how to build production-ready multi-agent systems and automate workflows using LangChain and LangGraph. You'll ...",
+      "video_title": "Build a Full Stack AI-Powered Web App with ChatGPT API",
+      "title": "Build a Full Stack AI-Powered Web App with ChatGPT API",
+      "video_url": "https://www.youtube.com/watch?v=b-JFDTZ5e1U",
+      "youtube_url": "https://www.youtube.com/watch?v=b-JFDTZ5e1U",
+      "description": "Learn how to build AI Chat Application with the help of AI and the MERN Stack, using tools like the ChatGPT API, Google's BERT, ...",
       "is_active": true,
       "week_number": 2,
       "tier_required": "foundational",
       "sort_order": 0
     },
     {
-      "video_title": "Stream LLMs with LangChain + Streamlit | Tutorial",
-      "title": "Stream LLMs with LangChain + Streamlit | Tutorial",
-      "video_url": "https://www.youtube.com/watch?v=zKGeRWjJlTU",
-      "youtube_url": "https://www.youtube.com/watch?v=zKGeRWjJlTU",
-      "description": "This video shows how to build a real-time chat application that enhances user experience by streaming responses from language ...",
+      "video_title": "How to Build a Local AI Agent With Python (Ollama, LangChain &amp; RAG)",
+      "title": "How to Build a Local AI Agent With Python (Ollama, LangChain &amp; RAG)",
+      "video_url": "https://www.youtube.com/watch?v=E4l91XKQSgw",
+      "youtube_url": "https://www.youtube.com/watch?v=E4l91XKQSgw",
+      "description": "Thanks to Microsoft for sponsoring this video! Submit your #CodingWithCopilot stories so I can review them! I'm excited to check ...",
       "is_active": true,
       "week_number": 2,
       "tier_required": "foundational",
       "sort_order": 1
     },
     {
-      "video_title": "AssemblyAI - Build AI applications with spoken data",
-      "title": "AssemblyAI - Build AI applications with spoken data",
-      "video_url": "https://www.youtube.com/watch?v=r8KTOBOMm0A",
-      "youtube_url": "https://www.youtube.com/watch?v=r8KTOBOMm0A",
-      "description": "Welcome to the AssemblyAI YouTube channel, where we cover the latest innovations in AI and how to build AI-powered features ...",
+      "video_title": "RAG Project: Build an AI Onboarding Chatbot with Streamlit, LangChain, and ChromaDB",
+      "title": "RAG Project: Build an AI Onboarding Chatbot with Streamlit, LangChain, and ChromaDB",
+      "video_url": "https://www.youtube.com/watch?v=WUUujm1MRQg",
+      "youtube_url": "https://www.youtube.com/watch?v=WUUujm1MRQg",
+      "description": "In this comprehensive video, you'll learn how to build a fully functional AI-powered onboarding chatbot tailored for new employees ...",
       "is_active": true,
       "week_number": 2,
       "tier_required": "foundational",
       "sort_order": 2
     },
     {
-      "video_title": "Build an AI Agent From Scratch in Python - Tutorial for Beginners",
-      "title": "Build an AI Agent From Scratch in Python - Tutorial for Beginners",
-      "video_url": "https://www.youtube.com/watch?v=bTMPwUgLZf0",
-      "youtube_url": "https://www.youtube.com/watch?v=bTMPwUgLZf0",
-      "description": "Thanks to Microsoft for sponsoring this video! Submit your #CodingWithCopilot story for a chance to be featured in an upcoming ...",
+      "video_title": "Build an AI SaaS in 1 Day (Step-by-Step Stack) | #AI #Startup #SaaS #Coding",
+      "title": "Build an AI SaaS in 1 Day (Step-by-Step Stack) | #AI #Startup #SaaS #Coding",
+      "video_url": "https://www.youtube.com/watch?v=d63m0HGoPC8",
+      "youtube_url": "https://www.youtube.com/watch?v=d63m0HGoPC8",
+      "description": "You don't need a big team to build an AI SaaS anymore. Here's a real, minimal stack you can use to launch something in one day.",
       "is_active": true,
       "week_number": 2,
       "tier_required": "foundational",
@@ -106,31 +106,9 @@
       "youtube_url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
       "description": "This is a 1 hour general-audience introduction to Large Language Models: the core technical component behind systems like ...",
       "is_active": true,
-      "week_number": 3,
+      "week_number": 2,
       "tier_required": "foundational",
-      "sort_order": 0
-    },
-    {
-      "video_title": "Learn to build effective Agentic AI systems with Andrew Ng",
-      "title": "Learn to build effective Agentic AI systems with Andrew Ng",
-      "video_url": "https://www.youtube.com/watch?v=w7vqXL4PWEE",
-      "youtube_url": "https://www.youtube.com/watch?v=w7vqXL4PWEE",
-      "description": "Learn more: https://bit.ly/4mVUPyF Building effective Agentic AI systems is one of the most valuable skills in AI today. Introducing ...",
-      "is_active": true,
-      "week_number": 3,
-      "tier_required": "foundational",
-      "sort_order": 1
-    },
-    {
-      "video_title": "LangChain vs LangGraph: A Tale of Two Frameworks",
-      "title": "LangChain vs LangGraph: A Tale of Two Frameworks",
-      "video_url": "https://www.youtube.com/watch?v=qAF1NjEVHhY",
-      "youtube_url": "https://www.youtube.com/watch?v=qAF1NjEVHhY",
-      "description": "Want to learn more about AI agents and assistants? Register for Virtual Agents Day here \u2192 https://ibm.biz/BdaAVa Download the ...",
-      "is_active": true,
-      "week_number": 3,
-      "tier_required": "foundational",
-      "sort_order": 2
+      "sort_order": 4
     },
     {
       "video_title": "LangGraph Complete Course for Beginners \u2013 Complex AI Agents with Python",
@@ -141,62 +119,106 @@
       "is_active": true,
       "week_number": 3,
       "tier_required": "foundational",
+      "sort_order": 0
+    },
+    {
+      "video_title": "LangGraph Complete Course for Beginners \u2013 Complex AI Agents with Python",
+      "title": "LangGraph Complete Course for Beginners \u2013 Complex AI Agents with Python",
+      "video_url": "https://www.youtube.com/watch?v=jGg_1h0qzaM",
+      "youtube_url": "https://www.youtube.com/watch?v=jGg_1h0qzaM",
+      "description": "Welcome to this video course on LangGraph, the powerful Python library for building advanced conversational AI workflows.",
+      "is_active": true,
+      "week_number": 3,
+      "tier_required": "foundational",
+      "sort_order": 1
+    },
+    {
+      "video_title": "Context Engineering Our Way to Long-Horizon Agents: LangChain\u2019s Harrison Chase",
+      "title": "Context Engineering Our Way to Long-Horizon Agents: LangChain\u2019s Harrison Chase",
+      "video_url": "https://www.youtube.com/watch?v=vtugjs2chdA",
+      "youtube_url": "https://www.youtube.com/watch?v=vtugjs2chdA",
+      "description": "Harrison Chase, cofounder of LangChain and pioneer of AI agent frameworks, discusses the emergence of long-horizon agents ...",
+      "is_active": true,
+      "week_number": 3,
+      "tier_required": "foundational",
+      "sort_order": 2
+    },
+    {
+      "video_title": "The Complete AI Agent Architecture \u2014 Tool Calling, ReAct, Memory, Evals, Traces etc.",
+      "title": "The Complete AI Agent Architecture \u2014 Tool Calling, ReAct, Memory, Evals, Traces etc.",
+      "video_url": "https://www.youtube.com/watch?v=kMXODoI0LQM",
+      "youtube_url": "https://www.youtube.com/watch?v=kMXODoI0LQM",
+      "description": "Join WhatsApp Community for All Resources & Study Material** https://chat.whatsapp.com/D73Mf1aDyIZHHMCgd32XHg 00:00 AI ...",
+      "is_active": true,
+      "week_number": 3,
+      "tier_required": "foundational",
       "sort_order": 3
     },
     {
-      "video_title": "Build a Local AI Agent in 10 Minutes using Python",
-      "title": "Build a Local AI Agent in 10 Minutes using Python",
-      "video_url": "https://www.youtube.com/watch?v=ByWCsa8DbF8",
-      "youtube_url": "https://www.youtube.com/watch?v=ByWCsa8DbF8",
-      "description": "All code in this video is available here: https://www.aiagentbuilders.co/yt-resources/local-python-agent Want to LEARN how to ...",
+      "video_title": "Agentic AI Frameworks Explained: Workflows, Multi-Agent, &amp; Production",
+      "title": "Agentic AI Frameworks Explained: Workflows, Multi-Agent, &amp; Production",
+      "video_url": "https://www.youtube.com/watch?v=ZVPlLaehjLk",
+      "youtube_url": "https://www.youtube.com/watch?v=ZVPlLaehjLk",
+      "description": "Learn more about AI Agent Frameworks here \u2192 https://ibm.biz/~M1qnwGHnE Too many agentic AI frameworks and no clear ...",
       "is_active": true,
       "week_number": 3,
       "tier_required": "foundational",
       "sort_order": 4
     },
     {
-      "video_title": "Build &amp; Deploy AI SaaS with Reoccurring Revenue (Next.js, OpenAI, Stripe, Tailwind, Vercel)",
-      "title": "Build &amp; Deploy AI SaaS with Reoccurring Revenue (Next.js, OpenAI, Stripe, Tailwind, Vercel)",
-      "video_url": "https://www.youtube.com/watch?v=r895rFUbGtE",
-      "youtube_url": "https://www.youtube.com/watch?v=r895rFUbGtE",
-      "description": "Learn how to build and deploy a SaaS using NextJS 13.4, DrizzleORM, OpenAI, Stripe, TypeScript, Tailwind, and Vercel. You will ...",
+      "video_title": "Ollama Course \u2013 Build AI Apps Locally",
+      "title": "Ollama Course \u2013 Build AI Apps Locally",
+      "video_url": "https://www.youtube.com/watch?v=GWB9ApTPTv4",
+      "youtube_url": "https://www.youtube.com/watch?v=GWB9ApTPTv4",
+      "description": "Learn how to set up and use Ollama to build powerful AI applications locally. This hands-on course covers pulling and ...",
       "is_active": true,
       "week_number": 4,
       "tier_required": "foundational",
       "sort_order": 0
     },
     {
-      "video_title": "Build an AI Voice Studio SaaS with Next.js 16, Python, Neon, Modal &amp; Better Auth - Nextjs 16 project",
-      "title": "Build an AI Voice Studio SaaS with Next.js 16, Python, Neon, Modal &amp; Better Auth - Nextjs 16 project",
-      "video_url": "https://www.youtube.com/watch?v=MWT-bVpUiNs",
-      "youtube_url": "https://www.youtube.com/watch?v=MWT-bVpUiNs",
-      "description": "Next.js 16 project - Build an AI Voice Studio SaaS with Next.js 16, Python, Neon, Polar, Modal & Better Auth Neon ...",
+      "video_title": "Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023",
+      "title": "Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023",
+      "video_url": "https://www.youtube.com/watch?v=ffJ38dBzrlY",
+      "youtube_url": "https://www.youtube.com/watch?v=ffJ38dBzrlY",
+      "description": "Discord for any problems/errors/bugs: https://www.codewithantonio.com/discord Github & Live Website: ...",
       "is_active": true,
       "week_number": 4,
       "tier_required": "foundational",
       "sort_order": 1
     },
     {
-      "video_title": "The Ultimate FastAPI + React Full Stack Project (Deploy This and You\u2019re Set)",
-      "title": "The Ultimate FastAPI + React Full Stack Project (Deploy This and You\u2019re Set)",
-      "video_url": "https://www.youtube.com/watch?v=_1P0Uqk50Ps",
-      "youtube_url": "https://www.youtube.com/watch?v=_1P0Uqk50Ps",
-      "description": "In this video, you'll learn how to build a full stack application using FastAPI in Python and JavaScript and React. Now I'll cover ...",
+      "video_title": "when your serverless computing bill goes parabolic...",
+      "title": "when your serverless computing bill goes parabolic...",
+      "video_url": "https://www.youtube.com/watch?v=SCIfWhAheVw",
+      "youtube_url": "https://www.youtube.com/watch?v=SCIfWhAheVw",
+      "description": "Recently, a Vercel customer was surprised to get a $96K serverless bill after their app went viral. Learn how cloud pricing works ...",
       "is_active": true,
       "week_number": 4,
       "tier_required": "foundational",
       "sort_order": 2
     },
     {
-      "video_title": "Make Money from your API Tutorial",
-      "title": "Make Money from your API Tutorial",
-      "video_url": "https://www.youtube.com/watch?v=MbqSMgMAzxU",
-      "youtube_url": "https://www.youtube.com/watch?v=MbqSMgMAzxU",
-      "description": "Learn how to collect payments from an API or SaaS product. In this tutorial, we build an Express.js API from scratch, then make ...",
+      "video_title": "Inference Providers: Best Way to Build with Open Source Models",
+      "title": "Inference Providers: Best Way to Build with Open Source Models",
+      "video_url": "https://www.youtube.com/watch?v=oxwsizy1Spw",
+      "youtube_url": "https://www.youtube.com/watch?v=oxwsizy1Spw",
+      "description": "Create your account Today https://huggingface.short.gy/join Learn how to call open-source AI models through one consistent ...",
       "is_active": true,
       "week_number": 4,
       "tier_required": "foundational",
       "sort_order": 3
+    },
+    {
+      "video_title": "AI Wrappers Review - how to build app with ai",
+      "title": "AI Wrappers Review - how to build app with ai",
+      "video_url": "https://www.youtube.com/watch?v=HDRt4SOhUTQ",
+      "youtube_url": "https://www.youtube.com/watch?v=HDRt4SOhUTQ",
+      "description": "visit here : https://jvz3.com/c/3374263/419591 Want to know the fastest way to build an app and launch a profitable SaaS business ...",
+      "is_active": true,
+      "week_number": 4,
+      "tier_required": "foundational",
+      "sort_order": 4
     }
   ]
 }
